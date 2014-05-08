@@ -1,1 +1,14 @@
 /*Style sheet for project */
+a.social {
+	color: #333333;
+};
+
+a.social:visited {
+	color: #777777;
+}
+
+a.social:hover {
+	color: #999999;
+};
+
+
