@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+redcarpet:
+  extensions: [footnotes]
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            jhbraun
+tagline:          
+url:              http://jordanhbraun.github.io
+paginate:         5
+baseurl:          /
+author:
+  name:           Jordan H Braun
+  url:            https://twitter.com/designjordan
+  email:          jordan@greatjob.is
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/poole/poole

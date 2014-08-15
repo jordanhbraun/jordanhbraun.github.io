@@ -1,0 +1,67 @@
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} &middot; {{ site.tagline }}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ site.baseurl }}public/css/geof.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">
+  
+  <!-- Loading Google Fonts -->
+  <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700|Merriweather:300,400,700' rel='stylesheet' type='text/css'>
+  
+  <!-- Loading Font Awesome -->
+  <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.baseurl }}atom.xml">
+
+  <!-- SEO -->
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:sitename" content="{{ page.title }}" />
+  <meta itemprop="name" content="{{ page.title }}">
+  {% if page.description %}
+  <meta name="twitter:description" content="{{ page.description }}">
+  <meta property="og:description" content="{{ page.description }}" />
+  <meta itemprop="description" content="{{ page.description }}">
+  <meta name="description" content="{{ page.description }}" />
+  {% else %}
+  <meta name="twitter:description" content="Blog encompassing thoughts, philosophies, stories and musings of designer Jordan Braun.">
+  <meta property="og:description" content="Blog encompassing thoughts, philosophies, stories and musings of designer Jordan Braun." />
+  <meta itemprop="description" content="Blog encompassing thoughts, philosophies, stories and musings of designer Jordan Braun.">
+  <meta name="description" content="Blog encompassing thoughts, philosophies, stories and musings of designer Jordan Braun." />
+  {% endif %}
+  <meta name="twitter:creator" content="@designjordan">
+  <meta name="twitter:domain" content="jordanhbraun.github.io{{ page.url }}">
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="http://jordanhbraun.github.io{{ page.url }}" />
+  <!--<meta property="og:image" content="http://domain.com/opengraph-image.png" />-->
+  <!--<meta name="twitter:image:src" content="http://domain.com/twitter-image.png">-->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@designjordan">
+  <!--<link rel="author" href="https://plus.google.com/google-plus-profile-id/posts"/>-->
+  {% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords }}">
+  {% else %}
+  <meta name="keywords" content="default-keywords">
+  {% endif %}
+
+  <!-- Google Analytics -->
+
+  
+</head>
