@@ -1,3 +1,12 @@
+---
+layout: post
+title: An Open Letter to Barack Obama
+date: 2014-08-17
+description: An open letter from a concerned citizen.
+excerpt: When we voted for "change" we did not mean "change your mind."
+keywords: obama, politics, government
+---
+
 #An open letter to Barack Obama#
 
 President Obama,
