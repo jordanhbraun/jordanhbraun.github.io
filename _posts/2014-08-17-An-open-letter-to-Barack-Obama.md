@@ -11,7 +11,7 @@ keywords: obama, politics, government
 
 President Obama,
 
-You could go down in history as this nation's most disappointing president. Your campaign inspired the the people of the United States, young and old, but you have not delivered. When we voted for "change" we did not mean "change your mind."
+You could go down in history as this nation's most disappointing president. Your campaign inspired the people of the United States, young and old, but you have not delivered. When we voted for "change" we did not mean "change your mind."
 
 You have about 2 years left in your term, here is a list of items I have prepared that could help you save face. You do not need to complete this list, but I believe that completing even just one or two of these items could be the saving grace of your presidency.
 ***
@@ -33,4 +33,5 @@ ISPs basically have a government granted monopoly, they don't need more control 
 Please do not make excuses. George W. Bush's regime could have made any of this happen. I don't think you have what it takes to stand up and push through legislation that you believe in. Stop playing politics and start working on making this country better.
 
 Sincerely,
+
 Jordan H. Braun
