@@ -7,8 +7,6 @@ excerpt: When we voted for "change" we did not mean "change your mind."
 keywords: obama, politics, government
 ---
 
-#An open letter to Barack Obama#
-
 President Obama,
 
 You could go down in history as this nation's most disappointing president. Your campaign inspired the people of the United States, young and old, but you have not delivered. When we voted for "change" we did not mean "change your mind."
