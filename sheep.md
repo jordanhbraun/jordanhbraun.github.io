@@ -14,12 +14,14 @@ A project reminiscent of childhood memories transformed an empty room into a dre
 ![sheep](/sheep/sheep.jpg)
 
 Anita casted and glazed over 100 porcelain sheep by hand.
+</br>
 
 ![arduino](/sheep/arduino.png)
 
 I programmed several Arduino Nano microcontrollers to control the pulsating lights in the clouds as well as the servo motors which gradually raised and lowered the sheep.
 
 I also designed and built the frames for all of the mobiles, then wired the lights and servo motors. Anita then hand-sewed polyester fluff to the frames and hung the sheep from fishing line.
+</br>
 
 ![gallery](/sheep/gallery.png)
 

@@ -12,6 +12,7 @@ Through user research, I discovered that many people order delivery/take-out und
 
 Several users indicated that they don’t want to make decisions, they just want to eat food. I designed a solution for this use case. Simplicity was the strongest focus, stripping the food ordering process down to it’s bare minimum. User research indicated an almost primal decision making process, so I designed an app for that mindset. I shortened the user flow down to 2 main interactions: choosing a dish and paying.
 </br>
+</br>
 
 
 
@@ -25,6 +26,7 @@ Users want food to be on its way as soon as possible, and they don’t seem to b
 
 When presented with the usable prototype, people were surprised and delighted by how quick the process was. Many people mentioned that they become hungry and angry, aka “hangry,” and have very little patience at that point.  When users are frustrated and cranky, there is always an opportunity to delight. In this application, speed and simplicity is what will delight the user, not options and customization.
 </br>
+</br>
 
 
 **Customer Journey Map**
@@ -32,6 +34,7 @@ When presented with the usable prototype, people were surprised and delighted by
 A customer journey map is a visualization tool used to better understand a user’s actions/environment (yellow) and emotions/feelings (pink).  Mapping the customer’s journey helps to identify opportunities (blue) to design special solutions for our customer’s during their experience. 
 
 ![Customer Journey Map](/hungry/customerjourneymap.png)
+</br>
 </br>
 
 **User Flow**
