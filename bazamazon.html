@@ -10,8 +10,8 @@
 	<body>
 	<h1>BAZAMAZON! Link Builder</h1>
 		<label>
-    		Enter Amazon URL: 
-   			<input id="link" />
+    		Enter Amazon ASIN: 
+   			<input id="ASIN" />
 		</label>
 		</br>
 		</br>
@@ -25,7 +25,7 @@
 
 
 		function linkbuild() {
-		    var url = link.value + 
+		    var url = 'http://www.amazon.com/dp/' + ASIN.value + 
 		        '?tag=wwwgreatjobis-20'
 		    alert(url);
 		};
