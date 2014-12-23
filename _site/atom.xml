@@ -4,7 +4,7 @@
  <title>jhbraun</title>
  <link href="http://jordanhbraun.github.io/atom.xml" rel="self"/>
  <link href="http://jordanhbraun.github.io/"/>
- <updated>2014-12-23T10:07:54-05:00</updated>
+ <updated>2014-12-23T10:15:16-05:00</updated>
  <id>http://jordanhbraun.github.io</id>
  <author>
    <name>Jordan H Braun</name>
@@ -36,14 +36,18 @@
 
 &lt;div class=&quot;width:50%; float:right&quot;&gt;
     &lt;p&gt;&lt;strong&gt;Bullshit Method&lt;/stong&gt;&lt;/p&gt;
-    &lt;ul&gt;
+    &lt;ul style=&quot;float:left&quot;&gt;
         &lt;li&gt;Hypothesize&lt;/li&gt;
         &lt;li&gt;Conclude&lt;/li&gt;
     &lt;/ul&gt;
-&lt;/br&gt;
-&lt;/br&gt;
-&lt;/br&gt;
+
 &lt;/div&gt;
+
+&lt;p&gt;&lt;/br&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;/br&gt;&lt;/p&gt;
 
 &lt;p&gt;The Bullshit Method is not a problem solving framework, it&amp;#39;s the same framework people use to pick numbers for the lotto. Guessing is not effective. Adding white boards, post it notes, and wireframes into the mix doesn&amp;#39;t mean you&amp;#39;re not guessing. Testing is the answer. Test early, test often, test with users, test lo-fi, test high-fi, never stop testing. You will find the right answers with the scientific method. It cured polio and has helped us understand quantum physics, it is a good methodology.&lt;/p&gt;
 
