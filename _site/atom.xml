@@ -4,7 +4,7 @@
  <title>jhbraun</title>
  <link href="http://jordanhbraun.github.io/atom.xml" rel="self"/>
  <link href="http://jordanhbraun.github.io/"/>
- <updated>2014-11-20T15:52:42-06:00</updated>
+ <updated>2014-12-23T10:07:54-05:00</updated>
  <id>http://jordanhbraun.github.io</id>
  <author>
    <name>Jordan H Braun</name>
@@ -13,9 +13,48 @@
 
  
  <entry>
+   <title>Why I Won't Design Without Testing</title>
+   <link href="http://jordanhbraun.github.io//2014/12/23/Why-I-Wont-Design-Without-Testing/"/>
+   <updated>2014-12-23T00:00:00-05:00</updated>
+   <id>http://jordanhbraun.github.io/2014/12/23/Why-I-Wont-Design-Without-Testing</id>
+   <content type="html">&lt;p&gt;When I am contracted, it is because I am needed as a design expert. No one is hiring me to make my best guess; they are hiring me to apply the design process to their problem. They might not know that; they might not even know what the design process is. That&amp;#39;s OK, I don&amp;#39;t know what the accounting process is, but I am sure my accountant follows it.That&amp;#39;s what an expert is. An expert is someone who can effective apply their craft. Shooting from the hip, or &amp;quot;just having an eye for it,&amp;quot; is not an expertise. &lt;/p&gt;
+
+&lt;p&gt;Testing is a crucial part of the design process. If you&amp;#39;re not testing, you&amp;#39;re guessing. I don&amp;#39;t feel comfortable guessing when people are paying me money to solve their problems. Even if I client requests that I skip research, prototyping, and testing, I can&amp;#39;t make my self do it. They don&amp;#39;t understand the design process, that is why they are contracting a designer. I can&amp;#39;t do my job effectively without testing, and I refuse to do my job poorly.&lt;/p&gt;
+
+&lt;p&gt;I view design as the science of problem solving, so it seems logical to use the scientific method to solve design problems. The most effective way for me to explain the importance of research, prototyping, and testing in the design process is to show what the design process looks like with and without it.&lt;/p&gt;
+
+&lt;div style=&quot;width:50%; float:left&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;Scientific Method&lt;/strong&gt;&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Observe&lt;/li&gt;
+        &lt;li&gt;Hypothesize&lt;/li&gt;
+        &lt;li&gt;Experiment&lt;/li&gt;
+        &lt;li&gt;Analyze&lt;/li&gt;
+        &lt;li&gt;Conclude&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;width:50%; float:right&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;Bullshit Method&lt;/stong&gt;&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Hypothesize&lt;/li&gt;
+        &lt;li&gt;Conclude&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The Bullshit Method is not a problem solving framework, it&amp;#39;s the same framework people use to pick numbers for the lotto. Guessing is not effective. Adding white boards, post it notes, and wireframes into the mix doesn&amp;#39;t mean you&amp;#39;re not guessing. Testing is the answer. Test early, test often, test with users, test lo-fi, test high-fi, never stop testing. You will find the right answers with the scientific method. It cured polio and has helped us understand quantum physics, it is a good methodology.&lt;/p&gt;
+
+&lt;p&gt;I have had many clients ask me to skip straight to UI design with no research or testing, and I just can&amp;#39;t do it. I need my tools to do my job. I work with a lot of startups, and I know that time and money are both in short supply. Testing is &lt;strong&gt;not&lt;/strong&gt; something that you should skip to speed up the process. Reduce scope. Scope reduction is the only way to effectively save time and money without hurting quality. Removing testing from your process to save time is like throwing the bucket overboard to save a sinking ship. Throw some treasure overboard, not the one thing that can save you.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Design Science</title>
    <link href="http://jordanhbraun.github.io//2014/11/20/Design-Science/"/>
-   <updated>2014-11-20T00:00:00-06:00</updated>
+   <updated>2014-11-20T00:00:00-05:00</updated>
    <id>http://jordanhbraun.github.io/2014/11/20/Design-Science</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;We are designers, not artists.&lt;/strong&gt;&lt;/p&gt;
 
@@ -62,52 +101,9 @@
  </entry>
  
  <entry>
-   <title>An Open Letter to Barack Obama</title>
-   <link href="http://jordanhbraun.github.io//2014/08/17/An-open-letter-to-Barack-Obama/"/>
-   <updated>2014-08-17T00:00:00-05:00</updated>
-   <id>http://jordanhbraun.github.io/2014/08/17/An-open-letter-to-Barack-Obama</id>
-   <content type="html">&lt;p&gt;President Obama,&lt;/p&gt;
-
-&lt;p&gt;You could go down in history as this nation&amp;#39;s most disappointing president. Your campaign inspired the people of the United States, young and old, but you have not delivered. When we voted for &amp;quot;change&amp;quot; we did not mean &amp;quot;change your mind.&amp;quot;&lt;/p&gt;
-
-&lt;p&gt;You have about 2 years left in your term, here is a list of items I have prepared that could help you save face. You do not need to complete this list, but I believe that completing even just one or two of these items could be the saving grace of your presidency.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h4&gt;End military involvement in the Middle-East&lt;/h4&gt;
-
-&lt;p&gt;None of your voters were voting for war. You promised to end the wars in Iraq and Afghanistan, and while you may have done so on paper, we still have boots on the ground and dollars going out the door. It would be nice to stabilize the region, but we are $17,600,000,000,000 in debt. We can&amp;#39;t afford it.&lt;/p&gt;
-
-&lt;h4&gt;Close down the Guantanamo Bay Detention Camp&lt;/h4&gt;
-
-&lt;p&gt;Guantanamo Bay is disgusting. The eagle is symbolic for the United States because we are supposed to soar, not stoop to the bottom. If we can not treat prisoners humanely, even under difficult circumstances, then we are no longer an honorable country. Please restore standards, ethics, and honor.&lt;/p&gt;
-
-&lt;h4&gt;Pardon Edward Snowden and Chelsea Manning&lt;/h4&gt;
-
-&lt;p&gt;You promised a transparent government and you failed to deliver. They only did what you said you would do; what the people voted for. They looked above the law, and did what was right.&lt;/p&gt;
-
-&lt;h4&gt;Reign in the NSA&lt;/h4&gt;
-
-&lt;p&gt;The constant warrantless surveillence of the American people is a disgrace. You promised us that you would end the warrantless wire-tapping that was discovered under the Bush administration, but instead you have expanded it. Do you understand the difference between tyranny and liberty?&lt;/p&gt;
-
-&lt;h4&gt;Protect Net Neutrality&lt;/h4&gt;
-
-&lt;p&gt;ISPs basically have a government granted monopoly, they don&amp;#39;t need more control over the Internet. Either break up the monopoly and force them to compete, or draft legislation that protects net neutrality. Growth in the technology sector is not something this country can afford to lose.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;Please do not make excuses. George W. Bush&amp;#39;s regime could have made any of this happen. I don&amp;#39;t think you have what it takes to stand up and push through legislation that you believe in. Stop playing politics and start working on making this country better.&lt;/p&gt;
-
-&lt;p&gt;Sincerely,&lt;/p&gt;
-
-&lt;p&gt;Jordan H. Braun&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>There is No Secret</title>
    <link href="http://jordanhbraun.github.io//2014/05/11/There-is-No-Secret/"/>
-   <updated>2014-05-11T00:00:00-05:00</updated>
+   <updated>2014-05-11T00:00:00-04:00</updated>
    <id>http://jordanhbraun.github.io/2014/05/11/There-is-No-Secret</id>
    <content type="html">&lt;p&gt;Tips for success, lifehacks, habits of successful people... it&amp;#39;s all bullshit, and everyone should stop wasting their time reading and writing those articles. There is no secret sauce for effectiveness, success, or productivity. This may come as a shock to many, but it all comes down to hard work. Having a hard time focusing? You just need to try harder. Want to get twice as much done? Work twice as much.&lt;/p&gt;
 
@@ -120,7 +116,7 @@
  <entry>
    <title>Organizing UX Knowledge with Trello</title>
    <link href="http://jordanhbraun.github.io//2014/02/21/Organizing-UX-Knowledge-With-Trello/"/>
-   <updated>2014-02-21T00:00:00-06:00</updated>
+   <updated>2014-02-21T00:00:00-05:00</updated>
    <id>http://jordanhbraun.github.io/2014/02/21/Organizing-UX-Knowledge-With-Trello</id>
    <content type="html">&lt;p&gt;The design process can be messy and chaotic. I&amp;#39;m a fan of any tool or procedure that helps me clean up and focus my workflow. I use a method of organizing knowledge in UX projects that I find to be simple and valuable, especially when working collaboratively.&lt;/p&gt;
 
@@ -158,7 +154,7 @@ Cards can be moved from unknowns to assumptions to facts through observation, te
  <entry>
    <title>Fuck the Guy Who Designed the Snooze Button</title>
    <link href="http://jordanhbraun.github.io//2014/02/14/Fuck-the-Guy-Who-Designed-the-Snooze-Button/"/>
-   <updated>2014-02-14T00:00:00-06:00</updated>
+   <updated>2014-02-14T00:00:00-05:00</updated>
    <id>http://jordanhbraun.github.io/2014/02/14/Fuck-the-Guy-Who-Designed-the-Snooze-Button</id>
    <content type="html">&lt;h3&gt;I took control of my life today.&lt;/h3&gt;
 
