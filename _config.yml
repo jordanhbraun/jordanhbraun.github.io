@@ -10,13 +10,13 @@ permalink:        pretty
 # Setup
 title:            jhbraun
 tagline:          
-url:              http://jordanhbraun.github.io
+url:              http://www.jhbraun.com
 paginate:         5
 baseurl:          /
 author:
   name:           Jordan H Braun
   url:            https://twitter.com/designjordan
-  email:          jordan@greatjob.is
+  email:          jordan@jhbraun.com
 
 # Custom vars
 version:          1.0.0

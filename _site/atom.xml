@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>jhbraun</title>
- <link href="http://jordanhbraun.github.io/atom.xml" rel="self"/>
- <link href="http://jordanhbraun.github.io/"/>
- <updated>2014-12-23T10:15:16-05:00</updated>
- <id>http://jordanhbraun.github.io</id>
+ <link href="http://www.jhbraun.com/atom.xml" rel="self"/>
+ <link href="http://www.jhbraun.com/"/>
+ <updated>2015-01-10T11:57:54-06:00</updated>
+ <id>http://www.jhbraun.com</id>
  <author>
    <name>Jordan H Braun</name>
-   <email>jordan@greatjob.is</email>
+   <email>jordan@jhbraun.com</email>
  </author>
 
  
  <entry>
    <title>Why I Won't Design Without Testing</title>
-   <link href="http://jordanhbraun.github.io//2014/12/23/Why-I-Wont-Design-Without-Testing/"/>
-   <updated>2014-12-23T00:00:00-05:00</updated>
-   <id>http://jordanhbraun.github.io/2014/12/23/Why-I-Wont-Design-Without-Testing</id>
+   <link href="http://www.jhbraun.com//2014/12/23/Why-I-Wont-Design-Without-Testing/"/>
+   <updated>2014-12-23T00:00:00-06:00</updated>
+   <id>http://www.jhbraun.com/2014/12/23/Why-I-Wont-Design-Without-Testing</id>
    <content type="html">&lt;p&gt;When I am contracted, it is because I am needed as a design expert. No one is hiring me to make my best guess; they are hiring me to apply the design process to their problem. They might not know that; they might not even know what the design process is. That&amp;#39;s OK, I don&amp;#39;t know what the accounting process is, but I am sure my accountant follows it.That&amp;#39;s what an expert is. An expert is someone who can effective apply their craft. Shooting from the hip, or &amp;quot;just having an eye for it,&amp;quot; is not an expertise. &lt;/p&gt;
 
 &lt;p&gt;Testing is a crucial part of the design process. If you&amp;#39;re not testing, you&amp;#39;re guessing. I don&amp;#39;t feel comfortable guessing when people are paying me money to solve their problems. Even if I client requests that I skip research, prototyping, and testing, I can&amp;#39;t make my self do it. They don&amp;#39;t understand the design process, that is why they are contracting a designer. I can&amp;#39;t do my job effectively without testing, and I refuse to do my job poorly.&lt;/p&gt;
@@ -57,9 +57,9 @@
  
  <entry>
    <title>Design Science</title>
-   <link href="http://jordanhbraun.github.io//2014/11/20/Design-Science/"/>
-   <updated>2014-11-20T00:00:00-05:00</updated>
-   <id>http://jordanhbraun.github.io/2014/11/20/Design-Science</id>
+   <link href="http://www.jhbraun.com//2014/11/20/Design-Science/"/>
+   <updated>2014-11-20T00:00:00-06:00</updated>
+   <id>http://www.jhbraun.com/2014/11/20/Design-Science</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;We are designers, not artists.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;If we want to be great designers we need to start behaving more like scientists and less like artists. Design is not applied art; design is the science of problem solving. This is not an expression of our own thoughts, we are creating real solutions for real people.We are trying to solve problems for real people. We are not working in a closed studio in anticipation of a gallery opening. Testing isn’t part of the process; testing is the process. We need to be design scientists.
@@ -106,9 +106,9 @@
  
  <entry>
    <title>There is No Secret</title>
-   <link href="http://jordanhbraun.github.io//2014/05/11/There-is-No-Secret/"/>
-   <updated>2014-05-11T00:00:00-04:00</updated>
-   <id>http://jordanhbraun.github.io/2014/05/11/There-is-No-Secret</id>
+   <link href="http://www.jhbraun.com//2014/05/11/There-is-No-Secret/"/>
+   <updated>2014-05-11T00:00:00-05:00</updated>
+   <id>http://www.jhbraun.com/2014/05/11/There-is-No-Secret</id>
    <content type="html">&lt;p&gt;Tips for success, lifehacks, habits of successful people... it&amp;#39;s all bullshit, and everyone should stop wasting their time reading and writing those articles. There is no secret sauce for effectiveness, success, or productivity. This may come as a shock to many, but it all comes down to hard work. Having a hard time focusing? You just need to try harder. Want to get twice as much done? Work twice as much.&lt;/p&gt;
 
 &lt;p&gt;How many articles can possibly be written about getting enough sleep, exercising, and eating healthy? Why are people consuming this? I have a sneaking suspicion that it all comes down to &lt;a href=&quot;http://en.wikipedia.org/wiki/Ergophobia&quot;&gt;ergophobia&lt;/a&gt;. Most people aren&amp;#39;t hard workers. The startup community is plagued with talkers and brainstormers. Reading articles about working feels like working, but it&amp;#39;s not. Only working is working. So here&amp;#39;s my one tip for success: Work harder.&lt;/p&gt;
@@ -119,9 +119,9 @@
  
  <entry>
    <title>Organizing UX Knowledge with Trello</title>
-   <link href="http://jordanhbraun.github.io//2014/02/21/Organizing-UX-Knowledge-With-Trello/"/>
-   <updated>2014-02-21T00:00:00-05:00</updated>
-   <id>http://jordanhbraun.github.io/2014/02/21/Organizing-UX-Knowledge-With-Trello</id>
+   <link href="http://www.jhbraun.com//2014/02/21/Organizing-UX-Knowledge-With-Trello/"/>
+   <updated>2014-02-21T00:00:00-06:00</updated>
+   <id>http://www.jhbraun.com/2014/02/21/Organizing-UX-Knowledge-With-Trello</id>
    <content type="html">&lt;p&gt;The design process can be messy and chaotic. I&amp;#39;m a fan of any tool or procedure that helps me clean up and focus my workflow. I use a method of organizing knowledge in UX projects that I find to be simple and valuable, especially when working collaboratively.&lt;/p&gt;
 
 &lt;p&gt;First, I try to get everyone involved in the project thinking in terms of unknowns, assumptions, and facts. Just doing this does wonders for communication, planning, and prioritization. Our goal will be to turn unknowns into assumptions, then into facts. I find &lt;a href=&quot;http://www.trello.com&quot;&gt;Trello&lt;/a&gt; to be the perfect tool for organizing and manipulating this information. I create 3 lists: Unknowns, Assumptions, and Facts. Then I create cards in each list for pieces information relevant to the project.
@@ -157,9 +157,9 @@ Cards can be moved from unknowns to assumptions to facts through observation, te
  
  <entry>
    <title>Fuck the Guy Who Designed the Snooze Button</title>
-   <link href="http://jordanhbraun.github.io//2014/02/14/Fuck-the-Guy-Who-Designed-the-Snooze-Button/"/>
-   <updated>2014-02-14T00:00:00-05:00</updated>
-   <id>http://jordanhbraun.github.io/2014/02/14/Fuck-the-Guy-Who-Designed-the-Snooze-Button</id>
+   <link href="http://www.jhbraun.com//2014/02/14/Fuck-the-Guy-Who-Designed-the-Snooze-Button/"/>
+   <updated>2014-02-14T00:00:00-06:00</updated>
+   <id>http://www.jhbraun.com/2014/02/14/Fuck-the-Guy-Who-Designed-the-Snooze-Button</id>
    <content type="html">&lt;h3&gt;I took control of my life today.&lt;/h3&gt;
 
 &lt;p&gt;I have been struggling, of and on, with the snooze button for as long as I can remember. My old man calls it a self-inflicted torture device. He’s right, but still I snoozed... until today. I’ve tried all sorts of schemes to beat the habit. I’ve left myself mean notes and taped them to the snooze button. I’ve moved the alarm away from my bed. I’ve tried making myself do jumping jacks when I get out of bed. But I could never fully quit the snooze. Today I took control. I decided not to fight the button any more, I killed it forever. I took apart my alarm clock and ripped that fucker out. No more snoozing. It never should have been part of the clock in the first place.&lt;/p&gt;

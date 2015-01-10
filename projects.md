@@ -10,6 +10,9 @@ title: Projects
 **Empeopled:** a self-governing social network</br>
 [Site](http://www.empeopled.com)
 
+**Never Ignore Maintenance:** a poster series</br>
+[Posters](/neverignoremaintenance)
+
 **Sheep:** a full immersion art installation</br>
 [Project Overview](/sheep)
 
