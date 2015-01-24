@@ -101,6 +101,11 @@ strong {
   color: #303030;
 }
 
+.vertical-text {
+  transform: rotate(-90deg);
+  transform-origin: left bottom 0;
+}
+
 
 /* Lists */
 ul, ol, dl {
