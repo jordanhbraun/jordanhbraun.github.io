@@ -3,7 +3,7 @@ title: jhbraun
 email: jordan@jhbraun.com
 description: > # this means to ignore newlines until "baseurl:"
   The musings and wild rants of Jordan Braun. Mostly blog posts on design and some samples of his work.
-baseurl: "jhbraun.com" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.jhbraun.com" # the base hostname & protocol for your site
 twitter_username: DESIGNJORDAN
 github_username:  jordanhbraun
