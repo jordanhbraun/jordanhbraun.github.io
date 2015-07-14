@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+      <h1 class="headline">LET'S DO THIS.</h1> 
+
+      <div class="eight columns offset-by-two columns">
+        <hr>
+        <h4 class ="headline">HONEST&nbsp;DESIGN &&nbsp;HARD&nbsp;WORK</h4>
+        <hr class="thick">
+      </div>
+
+<div class="row">
+        <div class="eight columns offset-by-two columns justify headroom">
+
+          <p>I'm a designer, not a decorator. My focus is on crafting solutions.</p>
+
+          <p>Don't have a big budget? We can figure it out; favors beget favors. I'm not out to get rich. I work on projects that I believe in with people who give a damn. If you're looking for the same, then let's do this.</p>
+
+        </div>
+
+</div>
+
+    <div class="row">
+      <div class="four columns offset-by-two columns headroom">
+        <h6 class="headline">WORK</h6>
+        <hr class="small">
+        <ul>
+        {% for post in site.work %}
+          <li>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            <li class="desc">{{ post.categories }}</li>
+        {% endfor %}
+        </ul>
+      </div>
+
+      <div class="four columns headroom">
+        <h6 class="headline">BLOG</h6>
+        <hr class="small">
+        <ul>
+        {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            <li class="desc">{{ post.date | date: "%m.%d.%y" }}</li>
+        {% endfor %}
+        </ul>
+        </ul>
+      </div>
+    </div>
+
+
+</div>

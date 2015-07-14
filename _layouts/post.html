@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="container">
+	
+
+
+	<a href="{{ site.url }}"><h6><i class="fa fa-home"></i> J.H. BRAUN</h6></a>
+
+
+
+  <header>
+    <h2>{{ page.title }}</h2>
+    <p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>
