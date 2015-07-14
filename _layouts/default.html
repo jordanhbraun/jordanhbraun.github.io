@@ -1,39 +1,21 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html>
 
   {% include head.html %}
 
   <body>
+    <div class="container">
 
-    <div class="container content">
-      <div class="masthead">
-        <h3 class="masthead-title">
-          <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
-        </h3>
-        <ul class="nav">
-          <li>
-            <a href="/projects">Projects</a>
-          </li>
-          <li>
-            <a href="/articles">Articles</a>
-          </li>
-          <li>
-            <a href="/resume">Resume</a>
-          </li>
-        </ul>
-      </div>
+      {% include header.html %}
 
-      {{ content }}
+
+          {{ content }}
+
+
+      {% include footer.html %}
 
     </div>
 
-      <div class="footer">
-        <a href="https://www.linkedin.com/in/jordanhbraun" target="_blank"><i class="fa fa-linkedin fa-2x fa-footer fa-linkedin-hover"></i></a>
-        <a href="http://www.twitter.com/designjordan" target="_blank"><i class="fa fa-twitter fa-2x fa-footer fa-twitter-hover"></i></a>
-        <a href="https://github.com/jordanhbraun" target="_blank"><i class="fa fa-github fa-2x fa-footer fa-github-hover"></i></a>
-        <a href="mailto:jordan@jhbraun.com"><i class="fa fa-envelope fa-2x fa-footer fa-envelope-hover"></i></a>
-      </div>
-    
-
   </body>
+
 </html>

@@ -7,6 +7,7 @@ excerpt: If you're not testing, you're guessing.
 keywords: design, testing, experiments, research
 ---
 
+
 When I am contracted, it is because I am needed as a design expert. No one is hiring me to make my best guess; they are hiring me to apply the design process to their problem. They might not know that; they might not even know what the design process is. That's OK, I don't know what the accounting process is, but I am sure my accountant follows it.That's what an expert is. An expert is someone who can effective apply their craft. Shooting from the hip, or "just having an eye for it," is not an expertise. 
 
 Testing is a crucial part of the design process. If you're not testing, you're guessing. I don't feel comfortable guessing when people are paying me money to solve their problems. Even if I client requests that I skip research, prototyping, and testing, I can't make my self do it. They don't understand the design process, that is why they are contracting a designer. I can't do my job effectively without testing, and I refuse to do my job poorly.
@@ -14,7 +15,8 @@ Testing is a crucial part of the design process. If you're not testing, you're g
 I view design as the science of problem solving, so it seems logical to use the scientific method to solve design problems. The most effective way for me to explain the importance of research, prototyping, and testing in the design process is to show what the design process looks like with and without it.
 
 <div style="width:50%; float:left">
-	<p><strong>Scientific Method</strong></p>
+	<p style="text-align:center"><strong>Scientific Method</strong></p>
+	<hr class="small">	
 	<ul>
 		<li>Observe</li>
 		<li>Hypothesize</li>
@@ -24,19 +26,25 @@ I view design as the science of problem solving, so it seems logical to use the 
 	</ul>
 </div>
 
-<div class="width:50%; float:right">
-	<p><strong>Bullshit Method</stong></p>
-	<ul style="float:left">
+<div style="width:50%; float:left">
+	<p style="text-align:center"><strong>Bullshit Method</strong></p>
+	<hr class="small">	
+	<ul>
 		<li>Hypothesize</li>
 		<li>Conclude</li>
+		<br>
+		<br>
+		<br>
 	</ul>
-
 </div>
-</br>
-</br>
-</br>
-</br>
-</br>
+
+
+
+
+
+
+
+
 
 The Bullshit Method is not a problem solving framework, it's the same framework people use to pick numbers for the lotto. Guessing is not effective. Adding white boards, post it notes, and wireframes into the mix doesn't mean you're not guessing. Testing is the answer. Test early, test often, test with users, test lo-fi, test high-fi, never stop testing. You will find the right answers with the scientific method. It cured polio and has helped us understand quantum physics, it is a good methodology.
 

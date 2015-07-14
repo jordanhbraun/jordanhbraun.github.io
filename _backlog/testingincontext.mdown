@@ -1,9 +1,0 @@
----
-layout: post
-title: Research Testing and Usability Testing
-date: 2014-08-17
-description: Why and how to prototyping in context.
-excerpt: When we voted for "change" we did not mean "change your mind."
-keywords: design, ux, testing, research, prototyping
----
-
