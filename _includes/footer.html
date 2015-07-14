@@ -1,5 +1,32 @@
 <footer>
 
+	<div class="row">
+      <div class="four columns offset-by-two columns headroom">
+        <h6 class="headline">WORK</h6>
+        <hr class="small">
+        <ul>
+        {% for post in site.work %}
+          <li>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            <li class="desc">{{ post.categories }}</li>
+        {% endfor %}
+        </ul>
+      </div>
+
+      <div class="four columns headroom">
+        <h6 class="headline">BLOG</h6>
+        <hr class="small">
+        <ul>
+        {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            <li class="desc">{{ post.date | date: "%m.%d.%y" }}</li>
+        {% endfor %}
+        </ul>
+        </ul>
+      </div>
+    </div>
+
     <div class="headline headroom">
         <a class="social" href="https://www.linkedin.com/in/jordanhbraun" target="_blank"><i class="fa fa-linkedin fa-2x fa-footer fa-linkedin-hover"></i></a>
         <a class="social" href="http://www.twitter.com/designjordan" target="_blank"><i class="fa fa-twitter fa-2x fa-footer fa-twitter-hover"></i></a>
