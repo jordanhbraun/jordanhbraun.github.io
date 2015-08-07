@@ -50,12 +50,10 @@ End user applications can come in many shapes and sizes. This is a simple web ba
 iotracks' first users will be installers and integrators. Since we are creating and piloting the first application ourselves, I had the pleasure of documenting and optimizing our workflows first hand.
 
 This is the general workflow of an installer:
-
 ![installer](/images/installer.png)
 *installer workflow*
 
 This is the general workflow of an integrator:
-
 ![integrator](/images/integrator.png)
 *integrator workflow*
 
