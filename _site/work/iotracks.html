@@ -6,7 +6,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>jhbraun - ioManager </title>
+  <title>jhbraun - iotracks </title>
   <meta name="description" content="The musings and wild rants of Jordan Braun. Mostly blog posts on design and some samples of his work.
 ">
 
@@ -23,7 +23,7 @@
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="/css/normalize.css">
   <link rel="stylesheet" href="/css/skeleton.css">
-  <link rel="canonical" href="http://www.jhbraun.com/work/iomanager.html">
+  <link rel="canonical" href="http://www.jhbraun.com/work/iotracks.html">
   <link rel="alternate" type="application/rss+xml" title="jhbraun" href="http://www.jhbraun.com/feed.xml" />
 
 
@@ -67,16 +67,79 @@
 
 
   <header>
-    <h2>ioManager</h2>
+    <h2>iotracks</h2>
     <p></p>
   </header>
 
   <article class="post-content">
-    <p><a href="http://www.iotracks.com">iotracks.com</a></p>
+    <p><a href="http://www.iotracks.com">iotracks</a></p>
 
-<p><img src="/images/assettracking.png" alt="iomanager" /></p>
+<p>iotracks is an Internet of Things integration platform for building enterprise applications. iotracks turns a hardware problem into a software problem by utilizing containerization and messaging; creating microservices that can be easily linked together.</p>
 
-<p>ioManager is an asset management system dashboard that runs on the iotracks platform. It was designed to allow system administrators and operations people to monitor and manage the health and performance of their asset tracking system.</p>
+<p><strong>IoT Use Cases</strong></p>
+
+<p>Developing use cases for complex integrated systems is a fun, but difficult, problem. I found it useful to think of a compelling problem to begin with, and work backwards to see what systems were in place, and what new technologies were available. From there, I had to just use my imagination to decide how they could work together to solve the problem more effectively than current solutions.</p>
+
+<p>Here is an example using open seismic activity data to trigger events in an earthquake emergency for a building management system:</p>
+
+<p><img src="/images/earthquake.png" alt="earthquake" />
+<em>earthquake emegency</em></p>
+
+<p>I developed several sample use cases for two reasons. One being that IoT integration is a complex concept, and walking people through real world use cases helps illustrate what iotracks is all about. The other, is that iotracks is a small team and needed to find one compelling use case to focus on, so that we could build a sample application. After much research and validation, we settled on real time asset tracking. Asset tracking has both operations management and security uses, and is useful across multiple industries and environments.</p>
+
+<p><strong>End Users</strong></p>
+
+<p>Building an development platform for enterprise means multiple end users. The main users I was concerned with were:</p>
+
+<ul>
+  <li>
+    <h4 id="installers-it-people-installing-the-platform-and-sensors">- Installers (IT people installing the platform and sensors)</h4>
+  </li>
+  <li>
+    <h4 id="integrators-developers-building-iot-apps">- Integrators (Developers building IoT apps)</h4>
+  </li>
+  <li>
+    <h4 id="managersoperations-people-making-business-decisions">- Managers/Operations (People making business decisions)</h4>
+  </li>
+  <li>
+    <h4 id="people-on-the-floor-employees-using-the-applications">- People “on the floor” (Employees using the applications)</h4>
+  </li>
+</ul>
+
+<p><strong>User Interfaces</strong></p>
+
+<p>I designed and built several interfaces for various end users with various needs.</p>
+
+<p>ioAuthoring is a GUI for installers and integrators. This interface is used to provision servers, create tracks and data streams, and link microservices together to create applications.
+<img src="/images/ioauthoring.png" alt="ioAuthoring" />
+<em>ioAuthoring UI</em></p>
+
+<p>ioManager is a dashboard for installers and managers. It is a place to monitor both the health of the system and the outputs of the data streams. ioManager can be used to make business decisions and to maintain your IoT ecosystem. Sensors/devices can be provisioned from ioManager.
+<img src="/images/assettracking.png" alt="ioManager" />
+<em>ioManager UI</em></p>
+
+<p>End user applications can come in many shapes and sizes. This is a simple web based asset tracker installed at the iHangar. This is a responsive interface that can be left on a large screen in a central office location, and also works well on a phone or tablet for employees on the floor.
+<img src="/images/tooltracker.png" alt="End user applications" />
+<em>end user application</em></p>
+
+<p><strong>Creation Flow</strong></p>
+
+<p>iotracks’ first users will be installers and integrators. Since we are creating and piloting the first application ourselves, I had the pleasure of documenting and optimizing our workflows first hand.</p>
+
+<p>This is the general workflow of an installer:</p>
+
+<p><img src="/images/installer.png" alt="installer" />
+<em>installer workflow</em></p>
+
+<p>This is the general workflow of an integrator:</p>
+
+<p><img src="/images/integrator.png" alt="integrator" />
+<em>integrator workflow</em></p>
+
+<p><strong>Pilots</strong></p>
+
+<p>The iotracks asset tracking solution is currently being piloted by <a href="http://www.ihangar.org">iHangar</a>, <a href="http://www.peopleschoicehospital.com">People’s Choice Hospital</a>, and <a href="http://healthcare.utah.edu/">University of Utah Health Care</a>.</p>
+
 
   </article>
 
@@ -105,8 +168,8 @@
             <li class="desc">a research project</li>
         
           <li>
-            <a href="/work/iomanager.html">ioManager</a></li>
-            <li class="desc">an asset tracking dashboard</li>
+            <a href="/work/iotracks.html">iotracks</a></li>
+            <li class="desc">an IoT integration platform</li>
         
           <li>
             <a href="/work/neverignoremaintenance.html">Never Ignore Maintenance</a></li>
