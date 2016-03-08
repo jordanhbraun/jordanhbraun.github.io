@@ -354,7 +354,7 @@ li.footer:before{
 }
 
 li.desc:before{
-  content: none
+  content: " "
 }
 
 
