@@ -10,7 +10,6 @@ github_username:  jordanhbraun
 
 # Build settings
 markdown: kramdown
-	parse_block_html: true
 
 collections: 
 - work
