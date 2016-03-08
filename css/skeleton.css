@@ -51,6 +51,11 @@
 
 /* For devices larger than 550px */
 @media (min-width: 550px) {
+.post-content {
+  margin-left: 10%;
+  width: 80%
+}
+
   .container {
     width: 80%; }
   .column,
@@ -127,7 +132,7 @@ body {
   font-weight: 800;
   font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222;
-  background-color: #f6eb61  }
+  background-color: #f9f9f9  }
 
 
 /* Typography
@@ -333,7 +338,27 @@ ol ol,
 ol ul {
   margin: 1.5rem 0 1.5rem 1.5rem;
   font-size: 90%; }
-li {
+
+li{
+  font-family: "Open Sans";
+  margin: 0px 14% 12px 8%;
+  font-weight: 400;
+}
+
+li:before{
+  content: "- "
+}
+
+li.footer:before{
+  content: none
+}
+
+li.desc:before{
+  content: none
+}
+
+
+ .footer{
   font-family: helvetica;
   font-weight: 600;
   margin: 0px 14% 12px 8%;
