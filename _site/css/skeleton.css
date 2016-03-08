@@ -345,18 +345,6 @@ li{
   font-weight: 400;
 }
 
-li:before{
-  content: "- "
-}
-
-li.footer:before{
-  content: none
-}
-
-li.desc:before{
-  content: " "
-}
-
 
  .footer{
   font-family: helvetica;
