@@ -3,7 +3,6 @@ layout: post
 title: Project List
 categories: a list of relevant project work
 ---
-
 ###FMD
 
 Interaction design for a large tech company in Cupertino, California. Designed interactions and interfaces for a supply chain tool to be used by both internal users and international suppliers.
