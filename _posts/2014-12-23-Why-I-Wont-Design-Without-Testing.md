@@ -35,16 +35,11 @@ I view design as the science of problem solving, so it seems logical to use the 
 		<br>
 		<br>
 		<br>
+		<br>
 	</ul>
 </div>
 
-
-
-
-
-
-
-
+ 	
 
 The Bullshit Method is not a problem solving framework, it's the same framework people use to pick numbers for the lotto. Guessing is not effective. Adding white boards, post it notes, and wireframes into the mix doesn't mean you're not guessing. Testing is the answer. Test early, test often, test with users, test lo-fi, test high-fi, never stop testing. You will find the right answers with the scientific method. It cured polio and has helped us understand quantum physics, it is a good methodology.
 

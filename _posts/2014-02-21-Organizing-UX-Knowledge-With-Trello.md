@@ -31,6 +31,7 @@ The only way to make it on to this list is through testing, no excuses. Scientif
 
 
 **Bringing it all home**
+
 Cards can be moved from unknowns to assumptions to facts through observation, testing, and validation. Follow the scientific method (*See post:* [Design Science: Testing is the process][2].) Unknowns should be observed and hypotheses (assumptions) should be formed. Assumptions should be tested and either turned into facts or back into unknowns.
 
 Trello has great iOS, Android, and Windows 8 apps. Collaboration is easy. Modifying cards and dragging them from list to list is simple. You can make comments on cards and attach files. It's everything that I love about white boards and post-it notes, but digital.

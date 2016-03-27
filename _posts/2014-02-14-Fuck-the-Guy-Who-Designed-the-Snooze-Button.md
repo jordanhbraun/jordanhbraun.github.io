@@ -7,11 +7,11 @@ excerpt: We are manipulators, psychologists, and social engineers.
 keywords: design, ethics, experiments
 ---
 
-###I took control of my life today.
+**I took control of my life today.**
 
-I have been struggling, of and on, with the snooze button for as long as I can remember. My old man calls it a self-inflicted torture device. He’s right, but still I snoozed... until today. I’ve tried all sorts of schemes to beat the habit. I’ve left myself mean notes and taped them to the snooze button. I’ve moved the alarm away from my bed. I’ve tried making myself do jumping jacks when I get out of bed. But I could never fully quit the snooze. Today I took control. I decided not to fight the button any more, I killed it forever. I took apart my alarm clock and ripped that fucker out. No more snoozing. It never should have been part of the clock in the first place.
+I have been struggling, off and on, with the snooze button for as long as I can remember. My old man calls it a self-inflicted torture device. He’s right, but still I snoozed... until today. I’ve tried all sorts of schemes to beat the habit. I’ve left myself mean notes and taped them to the snooze button. I’ve moved the alarm away from my bed. I’ve tried making myself do jumping jacks when I get out of bed. But I could never fully quit the snooze. Today I took control. I decided not to fight the button any more, I killed it forever. I took apart my alarm clock and ripped that fucker out. No more snoozing. It never should have been part of the clock in the first place.
 
-###Design ethics
+**Design ethics**
 
 I often think about my social responsibilities as a designer. A good design decision can carry a lot of weight. We are manipulators, psychologists, and social engineers. A big part of our job is to understand motivations and turn those motivations into behaviors. That’s a big responsibility, and I think we should quit taking it so lightly.
 

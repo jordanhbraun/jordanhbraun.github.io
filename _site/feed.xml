@@ -6,9 +6,9 @@
 </description>
     <link>http://www.jhbraun.com/</link>
     <atom:link href="http://www.jhbraun.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Mar 2016 10:54:23 -0800</pubDate>
-    <lastBuildDate>Tue, 08 Mar 2016 10:54:23 -0800</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Sun, 27 Mar 2016 17:19:09 -0500</pubDate>
+    <lastBuildDate>Sun, 27 Mar 2016 17:19:09 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>Privacy in Smart Cities</title>
@@ -48,7 +48,7 @@
 
 &lt;p&gt;The Internet of Things for cities is a real thing. Sensors are being installed constantly and more and more data is being collected. Technology is moving fast than legislation and public discourse. Trying to stop the progress is most likely futile, but we can certainly influence how and when these solutions are implemented. Traditionally, designers have been advocates for the user. We need to become advocates for citizens now. Designers should be working hand in hand with citizens policy makers, lawyers, and engineers to ensure that privacy is valued in smart cities. Governments should not be acting as if these resources are theirs. The streets, parks, and sidewalks of our cities belong to us, the citizens. It is the government’s job to manage and maintain them. That does not give them the right to surveil and collect without any oversight or permission from its citizens. Smart cities are great, but the end goal should be smart citizens.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 22 Jun 2015 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 22 Jun 2015 00:00:00 -0500</pubDate>
         <link>http://www.jhbraun.com/2015/06/22/Privacy-in-Smart-Cities.html</link>
         <guid isPermaLink="true">http://www.jhbraun.com/2015/06/22/Privacy-in-Smart-Cities.html</guid>
         
@@ -84,6 +84,7 @@
 		&lt;br /&gt;
 		&lt;br /&gt;
 		&lt;br /&gt;
+		&lt;br /&gt;
 	&lt;/ul&gt;
 &lt;/div&gt;
 
@@ -92,7 +93,7 @@
 &lt;p&gt;I have had many clients ask me to skip straight to UI design with no research or testing, and I just can’t do it. I need my tools to do my job. I work with a lot of startups, and I know that time and money are both in short supply. Testing is &lt;strong&gt;not&lt;/strong&gt; something that you should skip to speed up the process. Reduce scope. Scope reduction is the only way to effectively save time and money without hurting quality. Removing testing from your process to save time is like throwing the bucket overboard to save a sinking ship. Throw some treasure overboard, not the one thing that can save you.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 23 Dec 2014 00:00:00 -0800</pubDate>
+        <pubDate>Tue, 23 Dec 2014 00:00:00 -0600</pubDate>
         <link>http://www.jhbraun.com/2014/12/23/Why-I-Wont-Design-Without-Testing.html</link>
         <guid isPermaLink="true">http://www.jhbraun.com/2014/12/23/Why-I-Wont-Design-Without-Testing.html</guid>
         
@@ -131,7 +132,7 @@
 
 &lt;p&gt;The whole process is the test. It is a cycle of learning and constant improvement. It is not something you do before or after a build. The build is something you do to support the test that leads us closer to our goal: better solutions. If you’re just testing at the beginning or the end of a build then your process is not a science. &lt;/p&gt;
 </description>
-        <pubDate>Thu, 20 Nov 2014 00:00:00 -0800</pubDate>
+        <pubDate>Thu, 20 Nov 2014 00:00:00 -0600</pubDate>
         <link>http://www.jhbraun.com/2014/11/20/Design-Science.html</link>
         <guid isPermaLink="true">http://www.jhbraun.com/2014/11/20/Design-Science.html</guid>
         
@@ -146,7 +147,7 @@
 
 &lt;p&gt;Work longer hours, get up earlier, go out less, do whatever it takes. Your dad was right when he went on rants about elbow grease and gumption. Hard work pays off. Elon Musk and Richard Branson aren’t sitting around reading dumbass articles on Buzzfeed and Lifehacker… they’re working, they’re crushing it, they know that there is no secret sauce.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 11 May 2014 00:00:00 -0700</pubDate>
+        <pubDate>Sun, 11 May 2014 00:00:00 -0500</pubDate>
         <link>http://www.jhbraun.com/2014/05/11/There-is-No-Secret.html</link>
         <guid isPermaLink="true">http://www.jhbraun.com/2014/05/11/There-is-No-Secret.html</guid>
         
@@ -171,15 +172,16 @@
 
 &lt;p&gt;The only way to make it on to this list is through testing, no excuses. Scientific facts are permitted, but common social assumptions should be tested and validated.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Bringing it all home&lt;/strong&gt;
-Cards can be moved from unknowns to assumptions to facts through observation, testing, and validation. Follow the scientific method (&lt;em&gt;See post:&lt;/em&gt; &lt;a href=&quot;http://www.jhbraun.com/2014/11/20/Design-Science/&quot;&gt;Design Science: Testing is the process&lt;/a&gt;.) Unknowns should be observed and hypotheses (assumptions) should be formed. Assumptions should be tested and either turned into facts or back into unknowns.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bringing it all home&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Cards can be moved from unknowns to assumptions to facts through observation, testing, and validation. Follow the scientific method (&lt;em&gt;See post:&lt;/em&gt; &lt;a href=&quot;http://www.jhbraun.com/2014/11/20/Design-Science/&quot;&gt;Design Science: Testing is the process&lt;/a&gt;.) Unknowns should be observed and hypotheses (assumptions) should be formed. Assumptions should be tested and either turned into facts or back into unknowns.&lt;/p&gt;
 
 &lt;p&gt;Trello has great iOS, Android, and Windows 8 apps. Collaboration is easy. Modifying cards and dragging them from list to list is simple. You can make comments on cards and attach files. It’s everything that I love about white boards and post-it notes, but digital.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;(Disclaimer: I currently have no affiliation with Trello, but we would love for that to change.)&lt;/em&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 21 Feb 2014 00:00:00 -0800</pubDate>
+        <pubDate>Fri, 21 Feb 2014 00:00:00 -0600</pubDate>
         <link>http://www.jhbraun.com/2014/02/21/Organizing-UX-Knowledge-With-Trello.html</link>
         <guid isPermaLink="true">http://www.jhbraun.com/2014/02/21/Organizing-UX-Knowledge-With-Trello.html</guid>
         
@@ -188,11 +190,11 @@ Cards can be moved from unknowns to assumptions to facts through observation, te
     
       <item>
         <title>Fuck the Guy Who Designed the Snooze Button</title>
-        <description>&lt;h3 id=&quot;i-took-control-of-my-life-today&quot;&gt;I took control of my life today.&lt;/h3&gt;
+        <description>&lt;p&gt;&lt;strong&gt;I took control of my life today.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;I have been struggling, of and on, with the snooze button for as long as I can remember. My old man calls it a self-inflicted torture device. He’s right, but still I snoozed… until today. I’ve tried all sorts of schemes to beat the habit. I’ve left myself mean notes and taped them to the snooze button. I’ve moved the alarm away from my bed. I’ve tried making myself do jumping jacks when I get out of bed. But I could never fully quit the snooze. Today I took control. I decided not to fight the button any more, I killed it forever. I took apart my alarm clock and ripped that fucker out. No more snoozing. It never should have been part of the clock in the first place.&lt;/p&gt;
+&lt;p&gt;I have been struggling, off and on, with the snooze button for as long as I can remember. My old man calls it a self-inflicted torture device. He’s right, but still I snoozed… until today. I’ve tried all sorts of schemes to beat the habit. I’ve left myself mean notes and taped them to the snooze button. I’ve moved the alarm away from my bed. I’ve tried making myself do jumping jacks when I get out of bed. But I could never fully quit the snooze. Today I took control. I decided not to fight the button any more, I killed it forever. I took apart my alarm clock and ripped that fucker out. No more snoozing. It never should have been part of the clock in the first place.&lt;/p&gt;
 
-&lt;h3 id=&quot;design-ethics&quot;&gt;Design ethics&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Design ethics&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I often think about my social responsibilities as a designer. A good design decision can carry a lot of weight. We are manipulators, psychologists, and social engineers. A big part of our job is to understand motivations and turn those motivations into behaviors. That’s a big responsibility, and I think we should quit taking it so lightly.&lt;/p&gt;
 
@@ -200,7 +202,7 @@ Cards can be moved from unknowns to assumptions to facts through observation, te
 
 &lt;p&gt;Understanding how to manipulate motivations in order to create behaviors can be a great thing. As designers, we can make people go to the gym, stay focused, spend more time with their kids, save more money… we can do anything! Let’s create experiences that push people to be better.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 14 Feb 2014 00:00:00 -0800</pubDate>
+        <pubDate>Fri, 14 Feb 2014 00:00:00 -0600</pubDate>
         <link>http://www.jhbraun.com/2014/02/14/Fuck-the-Guy-Who-Designed-the-Snooze-Button.html</link>
         <guid isPermaLink="true">http://www.jhbraun.com/2014/02/14/Fuck-the-Guy-Who-Designed-the-Snooze-Button.html</guid>
         
