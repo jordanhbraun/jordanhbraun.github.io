@@ -23,10 +23,10 @@ I developed several sample use cases for two reasons. One being that IoT integra
 
 Building an development platform for enterprise means multiple end users. The main users I was concerned with were:
 
- * ####- Installers (IT people installing the platform and sensors)
- * ####- Integrators (Developers building IoT apps)
- * ####- Managers/Operations (People making business decisions)
- * ####- People "on the floor" (Employees using the applications)
+ * - Installers (IT people installing the platform and sensors)
+ * - Integrators (Developers building IoT apps)
+ * - Managers/Operations (People making business decisions)
+ * - People "on the floor" (Employees using the applications)
 
 **User Interfaces**
 
