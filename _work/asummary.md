@@ -3,7 +3,7 @@ layout: post
 title: Project List
 categories: a list of relevant project work
 ---
-###FMD
+###FMD###
 
 Interaction design for a large tech company in Cupertino, California. Designed interactions and interfaces for a supply chain tool to be used by both internal users and international suppliers.
 
@@ -14,7 +14,8 @@ Interaction design for a large tech company in Cupertino, California. Designed i
 
 
 
-###iotracks
+###iotracks###
+
 *[iotracks.com](http://www.iotracks.com)*
 
 Designed development tools, dashboards, and end-user applications for an enterprise Internet of Things application platform. This project required me to understand advanced technical concepts that were previously out of my comfort zone.
@@ -24,7 +25,7 @@ Designed development tools, dashboards, and end-user applications for an enterpr
 - HTML/CSS/JS prototypes 
 - Wireframes in Balsamiq
 
-###empeopled
+###empeopled###
 *[empeopled.com](http://www.empeopled.com)*
 
 Interaction and UI design for a self-governing discussion platform. A long term project that included everything from user research to final UI design.
@@ -36,7 +37,7 @@ Interaction and UI design for a self-governing discussion platform. A long term 
 - Wireframes in Balsamiq 
 - Icon design in Illustrator
 
-###grocerkey
+###grocerkey###
 *[grocerkey.com](http://www.grocerykey.com)*
 
 Design research and market research for an early stage (now funded) startup dealing with the grocery delivery industry. I spent time with actual grocery staff, observing and interviewing them about their current procedures.
@@ -47,7 +48,7 @@ Design research and market research for an early stage (now funded) startup deal
 - Wireframes in Balsamiq
 - User flow diagramming
 
-###mentormob
+###mentormob###
 *[mentormob.com](http://www.mentormob.com)*
 
 Product strategy for a startup that was becoming derailed by scope creep. I helped the team identify their core mission, and designed testing strategy that would help inform product product and keep scope tight.
@@ -56,7 +57,7 @@ Product strategy for a startup that was becoming derailed by scope creep. I help
 - Design testing strategies 
 - Product evaluation
 
-###donorpath
+###donorpath###
 *[donorpath.org](http://www.donorpath.org)*
 
 Interaction and UI design and product strategy for a data visualization tool aimed to aid non-profit organizations in fundraising. Discovered which data visualizations would be most useful through research and focus groups.
@@ -66,7 +67,7 @@ Interaction and UI design and product strategy for a data visualization tool aim
 - Market/industry research 
 - Data visualization
 
-###hungry
+###hungry###
 *[hungryishere.com](http://www.hungryishere.com)*
 
 Design research and prototyping for a consumer facing iOS app. Hungry aims to make ordering take-out/delivery as easy as ordering an Uber. I used research and prototyping to help them identify their target customer, MVP, and product roadmap.
@@ -78,7 +79,7 @@ Design research and prototyping for a consumer facing iOS app. Hungry aims to ma
 - Customer Journey Mapping
 - User flow diagramming
 
-###wordoko
+###wordoko###
 *[wordoko.com](http://www.wordoko.com)*
 
 Created a usable HTML5 prototype and final UI designs for a Japanese language learning iOS app.
