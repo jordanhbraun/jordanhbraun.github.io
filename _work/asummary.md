@@ -13,7 +13,7 @@ Interaction design for a large tech company in Cupertino, California. Designed i
 - Detailed Interaction Documentation
 - Wireframes in Balsamiq
 
-
+<br>
 
 ### iotracks
 
@@ -25,6 +25,8 @@ Designed development tools, dashboards, and end-user applications for an enterpr
 - UI Design in Sketch.app 
 - HTML/CSS/JS prototypes 
 - Wireframes in Balsamiq
+
+<br>
 
 ### empeopled
 *[empeopled.com](http://www.empeopled.com)*
@@ -38,6 +40,8 @@ Interaction and UI design for a self-governing discussion platform. A long term 
 - Wireframes in Balsamiq 
 - Icon design in Illustrator
 
+<br>
+
 ### grocerkey
 *[grocerkey.com](http://www.grocerykey.com)*
 
@@ -49,6 +53,8 @@ Design research and market research for an early stage (now funded) startup deal
 - Wireframes in Balsamiq
 - User flow diagramming
 
+<br>
+
 ### mentormob
 *[mentormob.com](http://www.mentormob.com)*
 
@@ -57,6 +63,8 @@ Product strategy for a startup that was becoming derailed by scope creep. I help
 - Mission statement exercises 
 - Design testing strategies 
 - Product evaluation
+
+<br>
 
 ### donorpath
 *[donorpath.org](http://www.donorpath.org)*
@@ -67,6 +75,8 @@ Interaction and UI design and product strategy for a data visualization tool aim
 - Wireframes in Balsamiq 
 - Market/industry research 
 - Data visualization
+
+<br>
 
 ### hungry
 *[hungryishere.com](http://www.hungryishere.com)*
@@ -79,6 +89,8 @@ Design research and prototyping for a consumer facing iOS app. Hungry aims to ma
 - Wireframes in Balsamiq
 - Customer Journey Mapping
 - User flow diagramming
+
+<br>
 
 ### wordoko
 *[wordoko.com](http://www.wordoko.com)*
