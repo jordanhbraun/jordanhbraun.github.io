@@ -327,7 +327,7 @@ label > .label-body {
 /* Lists
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 ul {
-  list-style: none; }
+  list-style: disc; }
 ol {
   list-style: decimal inside; }
 ol, ul {
@@ -338,7 +338,7 @@ ul ol,
 ol ol,
 ol ul {
   margin: 1.5rem 0 1.5rem 1.5rem;
-  font-size: 90%; }
+ }
 
 li{
   font-family: "Open Sans";
@@ -351,12 +351,14 @@ li{
   font-family: helvetica;
   font-weight: 600;
   margin: 0px 14% 12px 8%;
+  list-style: none;
 }
 
 .desc {
   font-style: italic;
   font-weight: 400;
   margin: -18px 14% 12px 12%;
+  list-style: none;
 
 }
 

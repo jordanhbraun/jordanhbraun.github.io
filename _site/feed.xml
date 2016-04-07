@@ -6,9 +6,76 @@
 </description>
     <link>http://www.jhbraun.com/</link>
     <atom:link href="http://www.jhbraun.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Apr 2016 16:39:21 -0700</pubDate>
-    <lastBuildDate>Wed, 06 Apr 2016 16:39:21 -0700</lastBuildDate>
+    <pubDate>Thu, 07 Apr 2016 15:04:46 -0700</pubDate>
+    <lastBuildDate>Thu, 07 Apr 2016 15:04:46 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Jargon Can Destroy Projects</title>
+        <description>&lt;p&gt;The world of business and technology is full of jargon. There are buzz words, acronyms, and industry specific terms. In theory, this kind of jargon exists to make communication faster and easier. In practice, it creates inconsistent expectations and unclear objectives in the workplace. I have first hand experience with disappointed clients whose definitions of terms like “MVP” and “prototype” are not the same as mine.&lt;/p&gt;
+
+&lt;p&gt;The truth about these terms is that the more they are used, the more watered down they become. I’m not even sure what “UX” means anymore, and I’m in the field! I used to feel like it was my mission to learn the true meaning of these terms and teach them to others. Take it from me, it’s a losing battle. I found a better path that leads to consistent expectations and happy teams… I play stupid.&lt;/p&gt;
+
+&lt;p&gt;Well, my ego might be a little too big to actually play stupid, but I ask for and present clarification frequently. Even if I know what the jargon means, I explain what it means to me and ask them to clarify what it means to them. I have a mental list of red-flag words that have bitten me in the ass before. A few of them are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;UX&lt;/li&gt;
+  &lt;li&gt;Wireframes&lt;/li&gt;
+  &lt;li&gt;Agile&lt;/li&gt;
+  &lt;li&gt;Prototype&lt;/li&gt;
+  &lt;li&gt;MVP&lt;/li&gt;
+  &lt;li&gt;Mockup&lt;/li&gt;
+  &lt;li&gt;Signed Off&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The more experience I gain, the less faith I have in this kind of jargon. The perceived meaning of some of these terms is so inconsistent, that sometimes I question my own understanding. I’ve finally arrived at the conclusion that everyone’s definition is equally incorrect and the terms mean nothing. My life is easier now, and my relationship with clients and teams is better. &lt;/p&gt;
+
+&lt;p&gt;Now that I have given up on jargon, here is how a typical conversation with a client might go:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CLIENT:&lt;/strong&gt; Will you be completing wireframes for the new screens?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ME:&lt;/strong&gt; Yes. My definition of a wireframe is a very simple drawing which demonstrates general layout and page content. It would likely be in black and white, it would not be pixel perfect, and it would not reflect final fonts or iconography. The wireframes would be accompanied by documentation to help the team understand the changes and new behaviors. Is that what you’re expecting?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CLIENT:&lt;/strong&gt; That makes sense, but when do I get to see the pixel perfect stuff?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ME:&lt;/strong&gt; I usually call that a mockup. Those will be completed shortly after wireframes are reviewed and approved. I can hand those off as photoshop files, or I can write the basic markup. That depends on your team’s needs and the complexity of the pages. Let’s schedule a wireframe review, then a mockup review 2 weeks later.&lt;/p&gt;
+
+&lt;p&gt;Another conversation I frequently have goes like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CLIENT:&lt;/strong&gt; We need a UX designer and someone recommended you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ME:&lt;/strong&gt; Great! I tend to specialize in user research and prototyping. I also have a lot of experience with laying out pages. My biggest value is translating abstract business requirements and user research into concrete product requirements. Does that sound like the sort of stuff you need?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CLIENT:&lt;/strong&gt; That sounds great, but I also need a logo, branding, and a really sexy app.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ME:&lt;/strong&gt; I can help with that, but it’s not really my forte. I would recommend hiring someone like myself, along with someone who specializes in that sort of graphics work. If you don’t have the budget for both, and the graphics are more important to you, I know some great designers whom I’d be happy to recommend.&lt;/p&gt;
+
+&lt;p&gt;Both of these conversations illustrate how much more talking I have to do now, but it’s totally worth it. The first conversation aligns everyone’s expectations. The second conversation does the same thing, and even though it could cost me the job, it’s worth it. That project would have been frustrating for both me and the client. &lt;/p&gt;
+
+&lt;p&gt;Ideally, most of these conversations and clarifications happen before a contract starts, but I don’t stop there. Throughout the project, I continue to ignore jargon and opt for the long winded approach. I consider it an investment that pays dividends. Expectations are consistently understood and objectives are met for the entire life of the project. Every team member involved knows exactly what is going on.&lt;/p&gt;
+
+&lt;p&gt;“MVP” sounds a lot cooler than “an extremely simplified version of your product, that is not made to scale well or handle edge cases, but which helps prove some of our biggest assumptions,” but happy clients and honest work pays my bills.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Just for fun, here’s what some of my favorite jargon tends to mean in the real world:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;UX:&lt;/strong&gt; wildcard term that could mean literally anything to anyone&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Wireframes:&lt;/strong&gt; Pixel perfect mockups with a strong emphasis on typography and iconography&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Agile:&lt;/strong&gt; Waterfall, but we waste 20 minutes of your morning.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Prototype:&lt;/strong&gt; Launchable product that magically costs half as much to design and build&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;MVP:&lt;/strong&gt; A product with as much functionality as Facebook in its 4th year&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mockup:&lt;/strong&gt; A document that makes clients forget every decision they’ve ever made or approved&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Signed Off:&lt;/strong&gt; The designer loses their ability to make changes, but the client retains theirs&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 07 Apr 2016 00:00:00 -0700</pubDate>
+        <link>http://www.jhbraun.com/2016/04/07/Jargon-Can-Destroy-Projects.html</link>
+        <guid isPermaLink="true">http://www.jhbraun.com/2016/04/07/Jargon-Can-Destroy-Projects.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Privacy in Smart Cities</title>
