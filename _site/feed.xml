@@ -6,13 +6,15 @@
 </description>
     <link>http://www.jhbraun.com/</link>
     <atom:link href="http://www.jhbraun.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Jun 2016 14:56:11 -0700</pubDate>
-    <lastBuildDate>Thu, 02 Jun 2016 14:56:11 -0700</lastBuildDate>
+    <pubDate>Thu, 02 Jun 2016 15:44:41 -0700</pubDate>
+    <lastBuildDate>Thu, 02 Jun 2016 15:44:41 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>Designs that Pop!</title>
-        <description>&lt;p&gt;My blog posts and work samples focus almost entirely on function, and rarely mention form. This doesn’t mean that I don’t appreciate, enjoy, and strive for beautiful designs. My gut and my idols (Buckminster Fuller, Dieter Rams, Christopher Alexander, Charles Eames, etc), seem to agree that form synthesizes around function.&lt;/p&gt;
+        <description>&lt;p&gt;My blog posts and work samples focus almost entirely on function, and rarely mention form. I don’t often write about visual design, because people more qualified than me have already done most of the heavy lifting. I try to focus my effort on creating value by solving problems that are unique to the project I am working on.&lt;/p&gt;
+
+&lt;p&gt;This doesn’t mean that I don’t appreciate, enjoy, and strive for beautiful designs. My gut and my idols (Buckminster Fuller, Dieter Rams, Christopher Alexander, Charles Eames, etc), seem to agree that form synthesizes around function.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“When I am working on a problem, I never think about beauty but when I have finished, if the solution is not beautiful, I know it is wrong.”&lt;/p&gt;
@@ -54,7 +56,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/cleanengine.png&quot; alt=&quot;Clean Engine&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Which of these engines do you think runs better? Which would you prefer to interact with? Which one is more aesthetically pleasing? Unless you’re diehard for Ford over GM, the answer to all of those questions is probably the second image. It’s aesthetics don’t make it run better. The fact that it has been meticulously maintained to run well (function) makes it pretty (form). This also makes it easier to work on and easier to learn about. It is inviting and isn’t as scary to explore, and that is a good thing in interface design.&lt;/p&gt;
+&lt;p&gt;Which of these engines do you think runs better? Which would you prefer to interact with? Which one is more aesthetically pleasing? Unless you’re diehard for Ford over GM, the answer to all of those questions is probably the second image. It’s aesthetics don’t make it run better. The fact that it has been meticulously built and maintained to run well (function) makes it pretty (form). This also makes it easier to work on and easier to learn about. It is inviting and isn’t as scary to explore, and that is a good thing in interface design.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -68,7 +70,7 @@
 
 &lt;p&gt;Before the industrial revolution, fancy engraved metal goods were all the rage. The craftsmanship required to create these ornate pieces signaled quality and attention to detail. New manufacturing techniques made it cheap and easy to create ornate designs with metal. Eventually, manufacturers realized that they could cover up impurities in the materials with ornamentation. Consumers caught on, and contemporary minimalist designs became the new face of luxury while overly ornate designs are viewed as tacky or gaudy.&lt;/p&gt;
 
-&lt;p&gt;It’s worth noting that neither of these design trends are “wrong”. Each seems to be a well made and well designed teapot that serves its function well. The fit the manufacturing practices and cultural norms of their times. &lt;/p&gt;
+&lt;p&gt;It’s worth noting that neither of these design trends are “wrong”. Each seems to be a well made and well designed teapot that serves its function well. They fit the manufacturing practices and cultural norms of their times. &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -78,7 +80,7 @@
 
 &lt;p&gt;The remaining visual design decisions come down to what I think is best for the project. Ideally, this is guided by empathy for the user, but there might be some personal preference sprinkled in. &lt;/p&gt;
 
-&lt;p&gt;In short, I care very much about creating beautiful designs. I don’t often write about visual design, because people more qualified than me have already done most of the heavy lifting. I try to focus my effort on creating value by solving problems that are unique to the project I am working on. If I do a good job understanding the function, then the form will manifest itself beautifully.&lt;/p&gt;
+&lt;p&gt;In short, I care very much about creating beautiful designs. If I do a good job understanding the function, then the form will manifest itself beautifully.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 02 Jun 2016 00:00:00 -0700</pubDate>
