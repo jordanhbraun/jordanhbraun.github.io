@@ -17,7 +17,7 @@ My blog posts and work samples focus almost entirely on function, and rarely men
 
 **Principles and Best Practices**
 
-Many things that you might think of as “designs that pop” or aesthetic decisions, are actually decisions about function. Beautiful typography is a function of legibility. Font size, line height, margins, and weight are all dictated by the human eye and visual processing. Typographic principles guide us towards the proper typography for the job. Principles exist for layout, color, logos… you name it! Within these principles there’s some wiggle room for style, buts it’s no different than the wiggle room engineers enjoy within their functional principles or that accountants enjoy within the Generally Accepted Accounting Principles (GAAP).
+Many things that you might think of as “designs that pop” or aesthetic decisions, are actually decisions about function. Beautiful typography is a function of legibility. Font size, line height, margins, and weight are all dictated by the human eye and visual processing. Typographic principles guide us towards the proper typography for the job. Principles exist for layout, color, logos… you name it! Within these principles there’s some wiggle room for style, but it’s no different than the wiggle room engineers enjoy within their functional principles or that accountants enjoy within the Generally Accepted Accounting Principles (GAAP).
 
 ![Bad Typography](/images/badtypography.png)
 
