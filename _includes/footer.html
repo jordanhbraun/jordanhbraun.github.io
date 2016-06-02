@@ -8,7 +8,6 @@
         {% for post in site.work %}
           <li class="footer">
             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-            <li class="desc">{{ post.categories | join: ' ' }}</li>
         {% endfor %}
         </ul>
       </div>
@@ -20,7 +19,6 @@
         {% for post in site.posts %}
           <li class="footer">
             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-            <li class="desc">{{ post.date | date: "%m.%d.%y" }}</li>
         {% endfor %}
         </ul>
         </ul>

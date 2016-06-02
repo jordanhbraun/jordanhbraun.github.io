@@ -14,7 +14,8 @@ Tech and local governments are very gung-ho about “smart cities” right now. 
 There is a lot of talk about the technology and infrastructure, and a lot of talk about the use cases. This is the fun stuff. We need to talk about the hard stuff. Are we building the foundation for an oppressive system? Are citizens willing to trade their data for these proposed benefits? The biggest question I have that isn’t being answered is: are we building these systems to empower citizens or to empower governments? 
 
 In a post-Snowden world, these are the important questions. If smart cities are for smart citizens, we need to include citizens in the conversation, and actually listen to their concerns… and there are plenty of concerns.
-	
+
+<br>	
 
 **Transparency**
 
@@ -24,6 +25,7 @@ I would argue that there would have been considerably less backlash against the 
 
 Moving forward, any sort of data collection in public spaces needs to be done transparently. We need to decide what is and isn’t appropriate together as a community. In some cases, it might be enough for the debate to happen in government offices. In other cases there needs to be clear and visible warnings about what kind of collection is going on; especially when someone's anonymity can be at stake. I see creating simple and legible signage for sensors in public spaces as one of the biggest design challenges for the Internet of Things.
 
+<br>
 
 **Context**
 
@@ -31,6 +33,7 @@ Most citizens know intuitively when security is appropriate and when it is oppre
 
 The context in which the data will be used is also important. Anonymized collection and analysis of traffic data for the sake of retiming red light cameras and adjusting speed limits is very different from analyzing the driving patterns of individuals. Part of transparency is being clear and honest about intended use. “We are collecting traffic data” is not enough. We deserve to know the difference between “We are collecting anonymized traffic data to improve traffic flow” and “We are collecting data to implicate criminals” because those things are very different.
 
+<br>
 
 **Consent**
 
@@ -38,11 +41,13 @@ Technology has left consent behind. Our current efforts, such as Terms of Servic
 
 Ideally, we should be setting our own terms. We own our data, and we should be able to tell services what they are allowed to do with it. Currently, services tell us what they are going to do with it, and that’s only if we’re lucky. Often, data collection happens with zero permission and zero consent. This is the equivalent of “Well, she didn’t say 'no'” counting as sexual consent. It’s ridiculous, it’s not good enough, and we should never accept that. 
 
+<br>
 
 **Options**
 
 Citizens deserve options when they are uncomfortable with data collection, especially when dealing with public resources. If I don’t like Facebook’s privacy policy, I can delete my account. The lines get blurrier when we’re talking about public transit, parks, and sidewalks. Citizen’s shouldn’t have to opt-out of using their own resources. We should be able to choose to only share our data if it is anonymized, or if it is going to open data projects, or choose to opt out entirely. If data collection is being done in such a way that does not allow for options or an opt-out, maybe we should be questioning that method of data collection.
 
+<br>
 
 **Calling All Privacy Advocates**
 

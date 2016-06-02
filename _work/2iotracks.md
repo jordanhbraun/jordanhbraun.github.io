@@ -1,12 +1,14 @@
 ---
 layout: post
 title: iotracks
-categories: an IoT integration platform
+description: Designed development tools, dashboards, and end-user applications for an enterprise Internet of Things application platform. This project required me to understand advanced technical concepts that were previously out of my comfort zone.
 ---
 
 [iotracks](http://www.iotracks.com)
 
 iotracks is an Internet of Things integration platform for building enterprise applications. iotracks turns a hardware problem into a software problem by utilizing containerization and messaging; creating microservices that can be easily linked together.
+
+<br>
 
 **IoT Use Cases**
 
@@ -19,14 +21,18 @@ Here is an example using open seismic activity data to trigger events in an eart
 
 I developed several sample use cases for two reasons. One being that IoT integration is a complex concept, and walking people through real world use cases helps illustrate what iotracks is all about. The other, is that iotracks is a small team and needed to find one compelling use case to focus on, so that we could build a sample application. After much research and validation, we settled on real time asset tracking. Asset tracking has both operations management and security uses, and is useful across multiple industries and environments.
 
+<br>
+
 **End Users**
 
 Building an development platform for enterprise means multiple end users. The main users I was concerned with were:
 
- * - Installers (IT people installing the platform and sensors)
- * - Integrators (Developers building IoT apps)
- * - Managers/Operations (People making business decisions)
- * - People "on the floor" (Employees using the applications)
+ * Installers (IT people installing the platform and sensors)
+ * Integrators (Developers building IoT apps)
+ * Managers/Operations (People making business decisions)
+ * People "on the floor" (Employees using the applications)
+
+<br>
 
 **User Interfaces**
 
@@ -44,6 +50,7 @@ End user applications can come in many shapes and sizes. This is a simple web ba
 ![End user applications](/images/tooltracker.png)
 *end user application*
 
+<br>
 
 **Creation Flow**
 
@@ -57,8 +64,7 @@ This is the general workflow of an integrator:
 ![integrator](/images/integrator.png)
 *integrator workflow*
 
-
-
+<br>
 
 **Pilots**
 

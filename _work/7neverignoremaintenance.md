@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Never Ignore Maintenance
-categories: a poster series
+description: A poster series designed for fun. All illustrations were created in Illustrator, layout was completed with InDesign.
 ---
 
 This poster series pays tribute to often overlooked maintenance tasks. These tasks put us in a position to create great work.

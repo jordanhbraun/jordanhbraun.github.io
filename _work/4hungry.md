@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hungry
-categories: a research project
+description: Research, prototyping, and design strategy for a food delivery app. I created interactive prototypes that were used to test with real users.
 ---
 
 [hungryishere.com](http://www.hungryishere.com)
@@ -12,8 +12,7 @@ Through user research, I discovered that many people order delivery/take-out und
 
 Several users indicated that they don’t want to make decisions, they just want to eat food. I designed a solution for this use case. Simplicity was the strongest focus, stripping the food ordering process down to it’s bare minimum. User research indicated an almost primal decision making process, so I designed an app for that mindset. I shortened the user flow down to 2 main interactions: choosing a dish and paying.
 
-
-
+<br>
 
 **Interviews**
 
@@ -25,7 +24,7 @@ Users want food to be on its way as soon as possible, and they don’t seem to b
 
 When presented with the usable prototype, people were surprised and delighted by how quick the process was. Many people mentioned that they become hungry and angry, aka “hangry,” and have very little patience at that point.  When users are frustrated and cranky, there is always an opportunity to delight. In this application, speed and simplicity is what will delight the user, not options and customization.
 
-
+<br>
 
 **Customer Journey Map**
 
@@ -33,6 +32,7 @@ A customer journey map is a visualization tool used to better understand a user�
 
 ![Customer Journey Map](/images/customerjourneymap.png)
 
+<br>
 
 **User Flow**
 
@@ -46,6 +46,7 @@ Logged in user flow:
 First time user flow:
 ![First Time User](/images/firsttimeuserflow.png)
 
+<br>
 
 **Interface**
 
@@ -63,6 +64,7 @@ The confirmation and payments screen is incredibly important. There is a lot of 
 
 ![Confirmation](/images/sampleconfirmation.png)
 
+<br>
 
 **Current State**
 

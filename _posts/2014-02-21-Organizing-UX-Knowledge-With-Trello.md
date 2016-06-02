@@ -11,24 +11,25 @@ The design process can be messy and chaotic. I'm a fan of any tool or procedure 
 
 First, I try to get everyone involved in the project thinking in terms of unknowns, assumptions, and facts. Just doing this does wonders for communication, planning, and prioritization. Our goal will be to turn unknowns into assumptions, then into facts. I find [Trello][1] to be the perfect tool for organizing and manipulating this information. I create 3 lists: Unknowns, Assumptions, and Facts. Then I create cards in each list for pieces information relevant to the project.
 
-
+<br>
 
 **Unknowns:** We don't know.
 
 User behaviors that we don't understand and questions that we have about the problem we're solving.
 
-
+<br>
 
 **Assumptions:** We think we know.
 
 Assumptions and predictions that we have made about the user. They are usually related to the user's motivations or how the user will interact with the product.
 
-
+<br>
 
 **Facts:** We know.
 
 The only way to make it on to this list is through testing, no excuses. Scientific facts are permitted, but common social assumptions should be tested and validated.
 
+<br>
 
 **Bringing it all home**
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sheep
-categories: an art installation
+description: A collaboration with artist Anita Su. This art installation involved designing and building large mobiles.
 ---
 
 

@@ -6,9 +6,87 @@
 </description>
     <link>http://www.jhbraun.com/</link>
     <atom:link href="http://www.jhbraun.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Apr 2016 15:04:46 -0700</pubDate>
-    <lastBuildDate>Thu, 07 Apr 2016 15:04:46 -0700</lastBuildDate>
+    <pubDate>Thu, 02 Jun 2016 14:03:23 -0700</pubDate>
+    <lastBuildDate>Thu, 02 Jun 2016 14:03:23 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Designs that Pop!</title>
+        <description>&lt;p&gt;My blog posts and work samples focus almost entirely on function, and rarely mention form. This doesn’t mean that I don’t appreciate, enjoy, and strive for beautiful designs. My gut and my idols (Buckminster Fuller, Dieter Rams, Christopher Alexander, Charles Eames, etc), seem to agree that form synthesizes around function.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“When I am working on a problem, I never think about beauty but when I have finished, if the solution is not beautiful, I know it is wrong.”&lt;/p&gt;
+
+  &lt;p&gt;-R. Buckminster Fuller&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Principles and Best Practices&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Many things that you might think of as “designs that pop” or aesthetic decisions, are actually decisions about function. Beautiful typography is a function of legibility. Font size, line height, margins, and weight are all dictated by the human eye and visual processing. Typographic principles guide us towards the proper typography for the job. Principles exist for layout, color, logos… you name it! Within these principles there’s some wiggle room for style, buts it’s no different than the wiggle room engineers enjoy within their functional principles or that accountants enjoy within the Generally Accepted Accounting Principles (GAAP).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/badtypography.png&quot; alt=&quot;Bad Typography&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/badtypography2.png&quot; alt=&quot;Bad Typography 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Believe it or not, these sites prioritize form over function. The designers obviously prioritized their own misguided aesthetic preferences over legibility and usability. The result is both ugly and unusable.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/goodtypography.png&quot; alt=&quot;Good Typography&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/goodtypography1.png&quot; alt=&quot;Good Typography 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;These designers let function dictate form. The result is legibility, usability, and focus. They also happen to be beautiful, and are often used as examples of companies that value design. Apple and Medium don’t try to reinvent the wheel. They use tried and true design principles for legibility, usability, and focus. 
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Design is a science with some art sprinkled on top, not the other way around.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cleanliness and Simplicity&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Humans like things that we can understand, and we’re afraid of things that we don’t. When things are clean and simple, they are easier to understand. When they are cluttered and complex, they are more difficult to understand. Clutter and complexity create fear, anxiety, and distraction. Those things discourage use. This doesn’t mean that a design can’t be colorful, playful, or even flashy. It just means that we should be mindful of things like white space, grids, and the amount of content displayed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/dirtyengine.png&quot; alt=&quot;Dirty Engine&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/cleanengine.png&quot; alt=&quot;Clean Engine&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Which of these engines do you think runs better? Which would you prefer to interact with? Which one is more aesthetically pleasing? Unless you’re diehard for Ford over GM, the answer to all of those questions is probably the second image. It’s aesthetics don’t make it run better. The fact that it has been meticulously maintained to run well (function) makes it pretty (form). This also makes it easier to work on and easier to learn about. It is inviting and isn’t as scary to explore, and that is a good thing in interface design.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trends in Design&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Design trends are largely dictated by cultural changes, technological advances, and scientific discovery. Design trends are not created by a consortium of creatives. Why are light font-weights and color gradients in style right now? Because our screen technology advanced to the pixel density necessary for thin lines and color gradients to look smooth. Why is skeuomorphism going away? Because of a cultural change where digital natives no longer need visual cues to a real world equivalent to understand an interface. Flashy sites were popular when the Internet was new and exciting. Now minimalist designs cut through the noise.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ornateteapot.png&quot; alt=&quot;Ornate Teapot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/minimalteapot.png&quot; alt=&quot;Minimalist Teapot&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;Before the industrial revolution, fancy engraved metal goods were all the rage. The craftsmanship required to create these ornate pieces signaled quality and attention to detail. New manufacturing techniques made it cheap and easy to create ornate designs with metal. Eventually, manufacturers realized that they could cover up impurities in the materials with ornamentation. Consumers caught on, and contemporary minimalist designs became the new face of luxury while overly ornate designs are viewed as tacky or gaudy.&lt;/p&gt;
+
+&lt;p&gt;It’s worth noting that neither of these design trends are “wrong”. Each seems to be a well made and well designed teapot that serves its function well. The fit the manufacturing practices and cultural norms of their times. &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How I Think About Visual Design&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My focus as a designer has always been on things like users, features, product focus, and the system as a whole. Often, these concerns overlap with visual design decisions. I know that if I truly understand the users and the product, then the visuals will be easy. Paying attention to what I’ve outlined above: &lt;em&gt;principles and best practices, simplicity, and design trends&lt;/em&gt; means that 95% of the visual decisions have been made for me. If I am designing for a platform with a strong design language, such as iOS or Android, then there are even more principles to help guide the visual design. If I am designing for a company with strong branding and style guidelines, then there are even less decisions to be made.&lt;/p&gt;
+
+&lt;p&gt;The remaining visual design decisions come down to what I think is best for the project. Ideally, this is guided by empathy for the user, but there might be some personal preference sprinkled in. &lt;/p&gt;
+
+&lt;p&gt;In short, I care very much about creating beautiful designs. I don’t often write about visual design, because people more qualified than me have already done most of the heavy lifting. I try to focus my effort on creating value by solving problems that are unique to the project I am working on. If I do a good job understanding the function, then the form will manifest itself beautifully.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 02 Jun 2016 00:00:00 -0700</pubDate>
+        <link>http://www.jhbraun.com/2016/06/02/Designs-That-Pop.html</link>
+        <guid isPermaLink="true">http://www.jhbraun.com/2016/06/02/Designs-That-Pop.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Jargon Can Destroy Projects</title>
@@ -87,6 +165,8 @@
 
 &lt;p&gt;In a post-Snowden world, these are the important questions. If smart cities are for smart citizens, we need to include citizens in the conversation, and actually listen to their concerns… and there are plenty of concerns.&lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;	&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;Transparency&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Regardless of how you feel about the Snowden leaks, you would have to admit that they were shocking. Historically, we have enjoyed a certain level of transparency in our justice system. We don’t expect our government to spy on us without probable cause. We have warrants and privacy rights. Two years ago, talking about Big Brother in the Land of the Free earned you a title of “Conspiracy Theorist.” Now there is no denying that there is some level of mass surveillance going on. &lt;/p&gt;
@@ -95,11 +175,15 @@
 
 &lt;p&gt;Moving forward, any sort of data collection in public spaces needs to be done transparently. We need to decide what is and isn’t appropriate together as a community. In some cases, it might be enough for the debate to happen in government offices. In other cases there needs to be clear and visible warnings about what kind of collection is going on; especially when someone’s anonymity can be at stake. I see creating simple and legible signage for sensors in public spaces as one of the biggest design challenges for the Internet of Things.&lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Most citizens know intuitively when security is appropriate and when it is oppressive. We can mostly agree that metal detectors make sense at a courthouse and not a in a public park. Data privacy is no different. I realize that an airport might track my movements through their facilities, but I’m not necessarily comfortable with my city tracking my movements on their streets. This means that broad sweeping laws might not make sense.&lt;/p&gt;
 
 &lt;p&gt;The context in which the data will be used is also important. Anonymized collection and analysis of traffic data for the sake of retiming red light cameras and adjusting speed limits is very different from analyzing the driving patterns of individuals. Part of transparency is being clear and honest about intended use. “We are collecting traffic data” is not enough. We deserve to know the difference between “We are collecting anonymized traffic data to improve traffic flow” and “We are collecting data to implicate criminals” because those things are very different.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Consent&lt;/strong&gt;&lt;/p&gt;
 
@@ -107,9 +191,13 @@
 
 &lt;p&gt;Ideally, we should be setting our own terms. We own our data, and we should be able to tell services what they are allowed to do with it. Currently, services tell us what they are going to do with it, and that’s only if we’re lucky. Often, data collection happens with zero permission and zero consent. This is the equivalent of “Well, she didn’t say ‘no’” counting as sexual consent. It’s ridiculous, it’s not good enough, and we should never accept that. &lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;Options&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Citizens deserve options when they are uncomfortable with data collection, especially when dealing with public resources. If I don’t like Facebook’s privacy policy, I can delete my account. The lines get blurrier when we’re talking about public transit, parks, and sidewalks. Citizen’s shouldn’t have to opt-out of using their own resources. We should be able to choose to only share our data if it is anonymized, or if it is going to open data projects, or choose to opt out entirely. If data collection is being done in such a way that does not allow for options or an opt-out, maybe we should be questioning that method of data collection.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Calling All Privacy Advocates&lt;/strong&gt;&lt;/p&gt;
 
@@ -173,27 +261,39 @@
 
 &lt;p&gt;If we want to be great designers we need to start behaving more like scientists and less like artists. Design is not applied art; design is the science of problem solving. This is not an expression of our own thoughts, we are creating real solutions for real people.We are trying to solve problems for real people. We are not working in a closed studio in anticipation of a gallery opening. Testing isn’t part of the process; testing is the process. We need to be design scientists.&lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;Scientists know what’s up.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;We have a lot of lessons to learn from scientists. Their process and their mindset suits our goals well. Their process is continuous and cyclical, just like that word that we like to throw around: iterative. They embrace failure. This is just a buzz phrase in the design and startup world, but its reality for scientists. In the world of science, failure is every bit as important as success, as long as learning is happening. Scientists don’t design experiments stacked to succeed, they design experiments to isolate variables and learn. I’ve seen plenty of user tests designed to prove the hypotheses, this is bad design. Validation needs to go both ways, or you’re just wasting time and money.&lt;/p&gt;
 
 &lt;p&gt;If we want to be design scientists, and we acknowledge that testing is our process, then what does that process look like? The scientific method, of course!&lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;Observe&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;This part is up to you. Get out there and observe some people. Evaluate your product. Do some daydreaming. Discover your design problem.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Hypothesis&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Brainstorm your heart out. This is the fun part. A lot of people make the mistake of stopping here, or going straight to build after brainstorming. These are assumptions that need validated.&lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;Experiment&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Build whatever you need to build and put it in front of people! Don’t build more than you have to, we just want to validate our assumptions as quickly as possible, so that we can make another run through this cycle. Keep your build focused on the test. &lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;Analysis&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Now it’s time to evaluate what you’ve learned. Did the experiment hit its success criteria? Why or why not? New questions should be arising, which leads us back to our first step: the formulation of a question.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Testing takes you where you need to be&lt;/strong&gt;&lt;/p&gt;
 
@@ -227,17 +327,25 @@
 
 &lt;p&gt;First, I try to get everyone involved in the project thinking in terms of unknowns, assumptions, and facts. Just doing this does wonders for communication, planning, and prioritization. Our goal will be to turn unknowns into assumptions, then into facts. I find &lt;a href=&quot;http://www.trello.com&quot;&gt;Trello&lt;/a&gt; to be the perfect tool for organizing and manipulating this information. I create 3 lists: Unknowns, Assumptions, and Facts. Then I create cards in each list for pieces information relevant to the project.&lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;Unknowns:&lt;/strong&gt; We don’t know.&lt;/p&gt;
 
 &lt;p&gt;User behaviors that we don’t understand and questions that we have about the problem we’re solving.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Assumptions:&lt;/strong&gt; We think we know.&lt;/p&gt;
 
 &lt;p&gt;Assumptions and predictions that we have made about the user. They are usually related to the user’s motivations or how the user will interact with the product.&lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;Facts:&lt;/strong&gt; We know.&lt;/p&gt;
 
 &lt;p&gt;The only way to make it on to this list is through testing, no excuses. Scientific facts are permitted, but common social assumptions should be tested and validated.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Bringing it all home&lt;/strong&gt;&lt;/p&gt;
 
@@ -251,27 +359,6 @@
         <pubDate>Fri, 21 Feb 2014 00:00:00 -0800</pubDate>
         <link>http://www.jhbraun.com/2014/02/21/Organizing-UX-Knowledge-With-Trello.html</link>
         <guid isPermaLink="true">http://www.jhbraun.com/2014/02/21/Organizing-UX-Knowledge-With-Trello.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Fuck the Guy Who Designed the Snooze Button</title>
-        <description>&lt;p&gt;&lt;strong&gt;I took control of my life today.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I have been struggling, off and on, with the snooze button for as long as I can remember. My old man calls it a self-inflicted torture device. He’s right, but still I snoozed… until today. I’ve tried all sorts of schemes to beat the habit. I’ve left myself mean notes and taped them to the snooze button. I’ve moved the alarm away from my bed. I’ve tried making myself do jumping jacks when I get out of bed. But I could never fully quit the snooze. Today I took control. I decided not to fight the button any more, I killed it forever. I took apart my alarm clock and ripped that fucker out. No more snoozing. It never should have been part of the clock in the first place.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Design ethics&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I often think about my social responsibilities as a designer. A good design decision can carry a lot of weight. We are manipulators, psychologists, and social engineers. A big part of our job is to understand motivations and turn those motivations into behaviors. That’s a big responsibility, and I think we should quit taking it so lightly.&lt;/p&gt;
-
-&lt;p&gt;Facebook notifications, Netflix autoplay, the snooze button… I’m opting out. I’m opting out of using them. I’m opting of designing them. These features are designed to manipulate our behaviors at our weakest moments. When we crave social interaction, when we’re having a hard time getting motivated, when we are too tired to turn down 10 more minutes of sleep. I want to use products that serve me and make me better. I was to design products the enable people, not distract them.&lt;/p&gt;
-
-&lt;p&gt;Understanding how to manipulate motivations in order to create behaviors can be a great thing. As designers, we can make people go to the gym, stay focused, spend more time with their kids, save more money… we can do anything! Let’s create experiences that push people to be better.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 14 Feb 2014 00:00:00 -0800</pubDate>
-        <link>http://www.jhbraun.com/2014/02/14/Fuck-the-Guy-Who-Designed-the-Snooze-Button.html</link>
-        <guid isPermaLink="true">http://www.jhbraun.com/2014/02/14/Fuck-the-Guy-Who-Designed-the-Snooze-Button.html</guid>
         
         
       </item>
