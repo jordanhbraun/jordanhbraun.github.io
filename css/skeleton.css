@@ -45,7 +45,7 @@
 /* For devices larger than 400px */
 @media (min-width: 400px) {
   .container {
-    width: 80%;
+    width: 90%;
     padding: 0; }
 }
 
@@ -148,6 +148,7 @@ h4 { font-size: 2.4rem; line-height: 1.35; letter-spacing: -.08rem; }
 h5 { font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem; }
 h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
+
 /* Larger than phablet */
 @media (min-width: 550px) {
   h1 { font-size: 10.0rem; text-shadow: -3px 3px #fff; }
@@ -174,8 +175,15 @@ p {
 .post-content p{
   font-family: "Open Sans";
   font-weight: 400;
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   line-height: 1.8;
+}
+
+/* Larger than phablet */
+@media (min-width: 550px) {
+  .post-content p{
+    font-size: 1.8rem; }
+  }
 }
 
 .post-content h2{
@@ -460,9 +468,9 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  -moz-box-shadow:    2px 2px 4px 5px #ccc;
-  -webkit-box-shadow: 2px 2px 4px 5px #ccc;
-  box-shadow:         2px 2px 4px 5px #ccc;
+  -moz-box-shadow:    2px 2px 2px 0px #ccc;
+  -webkit-box-shadow: 2px 2px 2px 0px #ccc;
+  box-shadow:         2px 2px 2px 0px #ccc;
 }
 
 
