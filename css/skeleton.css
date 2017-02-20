@@ -177,7 +177,7 @@ p {
   font-family: "Garamond";
   font-weight: 400;
   font-size: 2.4rem;
-  line-height: 1.8;
+  line-height: 1.6;
 }
 
 /* Larger than phablet */
@@ -369,7 +369,7 @@ li{
 
 .desc {
   font-weight: 400;
-  margin: -18px 14% 36px 12%;
+  margin: -18px 14% 36px 14%;
   list-style: none;
   font-size: 2.0rem;
 
@@ -457,9 +457,9 @@ hr {
 }
 
 .small {
-  border-top: 3px solid #222;
-  width: 80%;
-  margin: -10px 10% 1.5rem 10%;
+  border-top: 2px solid #222;
+  width: 8%;
+  margin: -10px 46% 1.5rem 46%;
 }
 
 .headroom {
