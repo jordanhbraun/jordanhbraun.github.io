@@ -1,0 +1,81 @@
+h3 {
+  font-family: 'Cutive Mono';
+  text-align: center;
+}
+
+.background-clip {
+    background:url(../images/sunset.jpg);
+    background-size: auto;
+    background-repeat: repeat;
+    background-position: right center;
+    font-size:280px;
+    line-height: .8;
+    text-transform:uppercase;
+    text-align:center;
+    font-family:'Barlow Condensed';
+    color:transparent;
+    -webkit-font-smoothing:antialiased;
+    -webkit-background-clip:text;
+    -moz-background-clip:text;
+    background-clip:text;
+    -webkit-text-fill-color:transparent;
+    margin:0;
+    -webkit-animation:BackgroundAnimated 50s linear infinite;
+    -moz-animation:BackgroundAnimated 50s linear infinite;
+    -ms-animation:BackgroundAnimated 50s linear infinite;
+    -o-animation:BackgroundAnimated 50s linear infinite;
+    animation:BackgroundAnimated 50s linear infinite
+}
+
+@keyframes BackgroundAnimated {
+from {
+    background-position:0 0
+}
+
+to {
+    background-position:100% 0
+}
+}
+
+@-webkit-keyframes BackgroundAnimated {
+from {
+    background-position:0 0
+}
+
+to {
+    background-position:100% 0
+}
+}
+
+@-ms-keyframes BackgroundAnimated {
+from {
+    background-position:0 0
+}
+
+to {
+    background-position:100% 0
+}
+}
+
+@-moz-keyframes BackgroundAnimated {
+from {
+    background-position:0 0
+}
+
+to {
+    background-position:100% 0
+}
+}
+
+@media (max-width: 1000px) { 
+  .background-clip {
+    font-size: 180px;
+  }
+  
+@media (max-width: 700px) { 
+  .background-clip {
+    font-size: 80px;
+  }
+  
+}
+
