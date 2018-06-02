@@ -11,10 +11,15 @@ github_username:  jordanhbraun
 # Build settings
 markdown: kramdown
 
-collections: 
+collections:
 - work
 
 collections:
  work:
   output: true
 
+
+flickr:
+  screen_name: designjordan
+  api_key: 1ce96dda269d873c742306b05625be6c
+  api_secret: 4322416cd571dad4

@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    builder (3.2.3)
+    flickraw (0.9.9)
+    kramdown (1.15.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  builder (~> 3.2, >= 3.2.3)
+  flickraw (~> 0.9.9)
+  kramdown (~> 1.15)
+
+BUNDLED WITH
+   1.15.4

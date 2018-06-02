@@ -4,11 +4,11 @@
     <title>jhbraun</title>
     <description>The musings and wild rants of Jordan Braun. Mostly blog posts on design and some samples of his work.
 </description>
-    <link>http://www.jhbraun.com/</link>
-    <atom:link href="http://www.jhbraun.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Feb 2017 19:11:11 -0800</pubDate>
-    <lastBuildDate>Sun, 19 Feb 2017 19:11:11 -0800</lastBuildDate>
-    <generator>Jekyll v3.1.2</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 19 Oct 2017 22:55:05 -0700</pubDate>
+    <lastBuildDate>Thu, 19 Oct 2017 22:55:05 -0700</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
     
       <item>
         <title>Designs that Pop!</title>
@@ -66,11 +66,11 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/ornateteapot.png&quot; alt=&quot;Ornate Teapot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/minimalteapot.png&quot; alt=&quot;Minimalist Teapot&quot; /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/minimalteapot.png&quot; alt=&quot;Minimalist Teapot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Before the industrial revolution, fancy engraved metal goods were all the rage. The craftsmanship required to create these ornate pieces signaled quality and attention to detail. New manufacturing techniques made it cheap and easy to create ornate designs with metal. Eventually, manufacturers realized that they could cover up impurities in the materials with ornamentation. Consumers caught on, and contemporary minimalist designs became the new face of luxury while overly ornate designs are viewed as tacky or gaudy.&lt;/p&gt;
 
-&lt;p&gt;It’s worth noting that neither of these design trends are “wrong”. Each seems to be a well made and well designed teapot that serves its function well. They fit the manufacturing practices and cultural norms of their times. &lt;/p&gt;
+&lt;p&gt;It’s worth noting that neither of these design trends are “wrong”. Each seems to be a well made and well designed teapot that serves its function well. They fit the manufacturing practices and cultural norms of their times.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -78,14 +78,14 @@
 
 &lt;p&gt;My focus as a designer has always been on things like users, features, product focus, and the system as a whole. Often, these concerns overlap with visual design decisions. I know that if I truly understand the users and the product, then the visuals will be easy. Paying attention to what I’ve outlined above: &lt;em&gt;principles and best practices, simplicity, and design trends&lt;/em&gt; means that 95% of the visual decisions have been made for me. If I am designing for a platform with a strong design language, such as iOS or Android, then there are even more principles to help guide the visual design. If I am designing for a company with strong branding and style guidelines, then there are even less decisions to be made.&lt;/p&gt;
 
-&lt;p&gt;The remaining visual design decisions come down to what I think is best for the project. Ideally, this is guided by empathy for the user, but there might be some personal preference sprinkled in. &lt;/p&gt;
+&lt;p&gt;The remaining visual design decisions come down to what I think is best for the project. Ideally, this is guided by empathy for the user, but there might be some personal preference sprinkled in.&lt;/p&gt;
 
 &lt;p&gt;In short, I care very much about creating beautiful designs. If I do a good job understanding the function, then the form will manifest itself beautifully.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 02 Jun 2016 00:00:00 -0700</pubDate>
-        <link>http://www.jhbraun.com/2016/06/02/Designs-That-Pop.html</link>
-        <guid isPermaLink="true">http://www.jhbraun.com/2016/06/02/Designs-That-Pop.html</guid>
+        <link>http://localhost:4000/2016/06/02/Designs-That-Pop.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/06/02/Designs-That-Pop.html</guid>
         
         
       </item>
@@ -108,7 +108,7 @@
   &lt;li&gt;Signed Off&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The more experience I gain, the less faith I have in this kind of jargon. The perceived meaning of some of these terms is so inconsistent, that sometimes I question my own understanding. I’ve finally arrived at the conclusion that everyone’s definition is equally incorrect and the terms mean nothing. My life is easier now, and my relationship with clients and teams is better. &lt;/p&gt;
+&lt;p&gt;The more experience I gain, the less faith I have in this kind of jargon. The perceived meaning of some of these terms is so inconsistent, that sometimes I question my own understanding. I’ve finally arrived at the conclusion that everyone’s definition is equally incorrect and the terms mean nothing. My life is easier now, and my relationship with clients and teams is better.&lt;/p&gt;
 
 &lt;p&gt;Now that I have given up on jargon, here is how a typical conversation with a client might go:&lt;/p&gt;
 
@@ -130,7 +130,7 @@
 
 &lt;p&gt;&lt;strong&gt;ME:&lt;/strong&gt; I can help with that, but it’s not really my forte. I would recommend hiring someone like myself, along with someone who specializes in that sort of graphics work. If you don’t have the budget for both, and the graphics are more important to you, I know some great designers whom I’d be happy to recommend.&lt;/p&gt;
 
-&lt;p&gt;Both of these conversations illustrate how much more talking I have to do now, but it’s totally worth it. The first conversation aligns everyone’s expectations. The second conversation does the same thing, and even though it could cost me the job, it’s worth it. That project would have been frustrating for both me and the client. &lt;/p&gt;
+&lt;p&gt;Both of these conversations illustrate how much more talking I have to do now, but it’s totally worth it. The first conversation aligns everyone’s expectations. The second conversation does the same thing, and even though it could cost me the job, it’s worth it. That project would have been frustrating for both me and the client.&lt;/p&gt;
 
 &lt;p&gt;Ideally, most of these conversations and clarifications happen before a contract starts, but I don’t stop there. Throughout the project, I continue to ignore jargon and opt for the long winded approach. I consider it an investment that pays dividends. Expectations are consistently understood and objectives are met for the entire life of the project. Every team member involved knows exactly what is going on.&lt;/p&gt;
 
@@ -151,8 +151,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 07 Apr 2016 00:00:00 -0700</pubDate>
-        <link>http://www.jhbraun.com/2016/04/07/Jargon-Can-Destroy-Projects.html</link>
-        <guid isPermaLink="true">http://www.jhbraun.com/2016/04/07/Jargon-Can-Destroy-Projects.html</guid>
+        <link>http://localhost:4000/2016/04/07/Jargon-Can-Destroy-Projects.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/04/07/Jargon-Can-Destroy-Projects.html</guid>
         
         
       </item>
@@ -163,15 +163,15 @@
 
 &lt;p&gt;Tech and local governments are very gung-ho about “smart cities” right now. The basic concepts that add up to a smart city are connectivity, open data, and sensor-driven intelligence/automation. All of these things excite us in the tech industry, and government officials are finally starting to get on board. I have been to several smart cities oriented conferences and have seen a lot of great talks. One thing that isn’t being discussed enough is privacy. Are we building Big Brother?&lt;/p&gt;
 
-&lt;p&gt;There is a lot of talk about the technology and infrastructure, and a lot of talk about the use cases. This is the fun stuff. We need to talk about the hard stuff. Are we building the foundation for an oppressive system? Are citizens willing to trade their data for these proposed benefits? The biggest question I have that isn’t being answered is: are we building these systems to empower citizens or to empower governments? &lt;/p&gt;
+&lt;p&gt;There is a lot of talk about the technology and infrastructure, and a lot of talk about the use cases. This is the fun stuff. We need to talk about the hard stuff. Are we building the foundation for an oppressive system? Are citizens willing to trade their data for these proposed benefits? The biggest question I have that isn’t being answered is: are we building these systems to empower citizens or to empower governments?&lt;/p&gt;
 
 &lt;p&gt;In a post-Snowden world, these are the important questions. If smart cities are for smart citizens, we need to include citizens in the conversation, and actually listen to their concerns… and there are plenty of concerns.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;	&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Transparency&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Regardless of how you feel about the Snowden leaks, you would have to admit that they were shocking. Historically, we have enjoyed a certain level of transparency in our justice system. We don’t expect our government to spy on us without probable cause. We have warrants and privacy rights. Two years ago, talking about Big Brother in the Land of the Free earned you a title of “Conspiracy Theorist.” Now there is no denying that there is some level of mass surveillance going on. &lt;/p&gt;
+&lt;p&gt;Regardless of how you feel about the Snowden leaks, you would have to admit that they were shocking. Historically, we have enjoyed a certain level of transparency in our justice system. We don’t expect our government to spy on us without probable cause. We have warrants and privacy rights. Two years ago, talking about Big Brother in the Land of the Free earned you a title of “Conspiracy Theorist.” Now there is no denying that there is some level of mass surveillance going on.&lt;/p&gt;
 
 &lt;p&gt;I would argue that there would have been considerably less backlash against the NSA if the public had been aware of their practices. There could have been useful discourse around the constitutionality and effectiveness of surveillance. Even though a vast majority of citizens would not directly participate in any sort of debate, it is comforting to know that decisions are not being made behind closed doors. If things are done in the open. Even if a citizen doesn’t plan on going to bat for themselves, they should know that someone potentially could. Privacy advocates need to know what is going on, so that all of us can be protected.&lt;/p&gt;
 
@@ -191,7 +191,7 @@
 
 &lt;p&gt;Technology has left consent behind. Our current efforts, such as Terms of Service, are fundamentally broken. If no one knows what they are agreeing to, how can you honestly call that consent? Terms of Service will continue to break down as technology moves away from personal devices and towards public infrastructure. We will see graphical user interfaces take a back seat to automation. This means even less opportunities to present users with information. This is another great design challenge for the Internet of Things.&lt;/p&gt;
 
-&lt;p&gt;Ideally, we should be setting our own terms. We own our data, and we should be able to tell services what they are allowed to do with it. Currently, services tell us what they are going to do with it, and that’s only if we’re lucky. Often, data collection happens with zero permission and zero consent. This is the equivalent of “Well, she didn’t say ‘no’” counting as sexual consent. It’s ridiculous, it’s not good enough, and we should never accept that. &lt;/p&gt;
+&lt;p&gt;Ideally, we should be setting our own terms. We own our data, and we should be able to tell services what they are allowed to do with it. Currently, services tell us what they are going to do with it, and that’s only if we’re lucky. Often, data collection happens with zero permission and zero consent. This is the equivalent of “Well, she didn’t say ‘no’” counting as sexual consent. It’s ridiculous, it’s not good enough, and we should never accept that.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -206,15 +206,15 @@
 &lt;p&gt;The Internet of Things for cities is a real thing. Sensors are being installed constantly and more and more data is being collected. Technology is moving fast than legislation and public discourse. Trying to stop the progress is most likely futile, but we can certainly influence how and when these solutions are implemented. Traditionally, designers have been advocates for the user. We need to become advocates for citizens now. Designers should be working hand in hand with citizens policy makers, lawyers, and engineers to ensure that privacy is valued in smart cities. Governments should not be acting as if these resources are theirs. The streets, parks, and sidewalks of our cities belong to us, the citizens. It is the government’s job to manage and maintain them. That does not give them the right to surveil and collect without any oversight or permission from its citizens. Smart cities are great, but the end goal should be smart citizens.&lt;/p&gt;
 </description>
         <pubDate>Mon, 22 Jun 2015 00:00:00 -0700</pubDate>
-        <link>http://www.jhbraun.com/2015/06/22/Privacy-in-Smart-Cities.html</link>
-        <guid isPermaLink="true">http://www.jhbraun.com/2015/06/22/Privacy-in-Smart-Cities.html</guid>
+        <link>http://localhost:4000/2015/06/22/Privacy-in-Smart-Cities.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/06/22/Privacy-in-Smart-Cities.html</guid>
         
         
       </item>
     
       <item>
-        <title>Why I Won&#39;t Design Without Testing</title>
-        <description>&lt;p&gt;When I am contracted, it is because I am needed as a design expert. No one is hiring me to make my best guess; they are hiring me to apply the design process to their problem. They might not know that; they might not even know what the design process is. That’s OK, I don’t know what the accounting process is, but I am sure my accountant follows it. That’s what an expert is. An expert is someone who can effective apply their craft. Shooting from the hip, or “just having an eye for it,” is not an expertise. &lt;/p&gt;
+        <title>Why I Won't Design Without Testing</title>
+        <description>&lt;p&gt;When I am contracted, it is because I am needed as a design expert. No one is hiring me to make my best guess; they are hiring me to apply the design process to their problem. They might not know that; they might not even know what the design process is. That’s OK, I don’t know what the accounting process is, but I am sure my accountant follows it. That’s what an expert is. An expert is someone who can effective apply their craft. Shooting from the hip, or “just having an eye for it,” is not an expertise.&lt;/p&gt;
 
 &lt;p&gt;Testing is a crucial part of the design process. If you’re not testing, you’re guessing. I don’t feel comfortable guessing when people are paying me money to solve their problems. Even if a client requests that I skip research, prototyping, and testing, I can’t make my self do it. They don’t understand the design process, that is why they are contracting a designer. I can’t do my job effectively without testing, and I refuse to do my job poorly.&lt;/p&gt;
 
@@ -251,8 +251,8 @@
 
 </description>
         <pubDate>Tue, 23 Dec 2014 00:00:00 -0800</pubDate>
-        <link>http://www.jhbraun.com/2014/12/23/Why-I-Wont-Design-Without-Testing.html</link>
-        <guid isPermaLink="true">http://www.jhbraun.com/2014/12/23/Why-I-Wont-Design-Without-Testing.html</guid>
+        <link>http://localhost:4000/2014/12/23/Why-I-Wont-Design-Without-Testing.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/12/23/Why-I-Wont-Design-Without-Testing.html</guid>
         
         
       </item>
@@ -287,7 +287,7 @@
 
 &lt;p&gt;&lt;strong&gt;Experiment&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Build whatever you need to build and put it in front of people! Don’t build more than you have to, we just want to validate our assumptions as quickly as possible, so that we can make another run through this cycle. Keep your build focused on the test. &lt;/p&gt;
+&lt;p&gt;Build whatever you need to build and put it in front of people! Don’t build more than you have to, we just want to validate our assumptions as quickly as possible, so that we can make another run through this cycle. Keep your build focused on the test.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -299,26 +299,11 @@
 
 &lt;p&gt;&lt;strong&gt;Testing takes you where you need to be&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The whole process is the test. It is a cycle of learning and constant improvement. It is not something you do before or after a build. The build is something you do to support the test that leads us closer to our goal: better solutions. If you’re just testing at the beginning or the end of a build then your process is not a science. &lt;/p&gt;
+&lt;p&gt;The whole process is the test. It is a cycle of learning and constant improvement. It is not something you do before or after a build. The build is something you do to support the test that leads us closer to our goal: better solutions. If you’re just testing at the beginning or the end of a build then your process is not a science.&lt;/p&gt;
 </description>
         <pubDate>Thu, 20 Nov 2014 00:00:00 -0800</pubDate>
-        <link>http://www.jhbraun.com/2014/11/20/Design-Science.html</link>
-        <guid isPermaLink="true">http://www.jhbraun.com/2014/11/20/Design-Science.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>There is No Secret</title>
-        <description>&lt;p&gt;Tips for success, lifehacks, habits of successful people… it’s all bullshit, and everyone should stop wasting their time reading and writing those articles. There is no secret sauce for effectiveness, success, or productivity. This may come as a shock to many, but it all comes down to hard work. Having a hard time focusing? You just need to try harder. Want to get twice as much done? Work twice as much.&lt;/p&gt;
-
-&lt;p&gt;How many articles can possibly be written about getting enough sleep, exercising, and eating healthy? Why are people consuming this? I have a sneaking suspicion that it all comes down to &lt;a href=&quot;http://en.wikipedia.org/wiki/Ergophobia&quot;&gt;ergophobia&lt;/a&gt;. Most people aren’t hard workers. The startup community is plagued with talkers and brainstormers. Reading articles about working feels like working, but it’s not. Only working is working. So here’s my one tip for success: Work harder.&lt;/p&gt;
-
-&lt;p&gt;Work longer hours, get up earlier, go out less, do whatever it takes. Your dad was right when he went on rants about elbow grease and gumption. Hard work pays off. Elon Musk and Richard Branson aren’t sitting around reading dumbass articles on Buzzfeed and Lifehacker… they’re working, they’re crushing it, they know that there is no secret sauce.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 11 May 2014 00:00:00 -0700</pubDate>
-        <link>http://www.jhbraun.com/2014/05/11/There-is-No-Secret.html</link>
-        <guid isPermaLink="true">http://www.jhbraun.com/2014/05/11/There-is-No-Secret.html</guid>
+        <link>http://localhost:4000/2014/11/20/Design-Science.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/11/20/Design-Science.html</guid>
         
         
       </item>
@@ -359,8 +344,8 @@
 
 </description>
         <pubDate>Fri, 21 Feb 2014 00:00:00 -0800</pubDate>
-        <link>http://www.jhbraun.com/2014/02/21/Organizing-UX-Knowledge-With-Trello.html</link>
-        <guid isPermaLink="true">http://www.jhbraun.com/2014/02/21/Organizing-UX-Knowledge-With-Trello.html</guid>
+        <link>http://localhost:4000/2014/02/21/Organizing-UX-Knowledge-With-Trello.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/02/21/Organizing-UX-Knowledge-With-Trello.html</guid>
         
         
       </item>
