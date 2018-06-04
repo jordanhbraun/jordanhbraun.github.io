@@ -1,3 +1,4 @@
+/*Styles*/
 body {
   background: #f9f9f9;
 }
@@ -14,7 +15,7 @@ h3 {
 }
 
 .headline {
-  margin-top: 70px;
+  margin-top: 30px;
 }
 
 .center-text {
@@ -26,9 +27,11 @@ h3 {
   color: #f9f9f9;
   text-transform: uppercase;
   text-decoration: none;
-  padding: 9px 12px 9px 12px; 
 }
 
+.nav {
+  padding: 9px 12px 9px 12px; 
+}
 
 a:hover {
   color: #f9f9f9;
@@ -56,6 +59,18 @@ a:hover {
   overflow-x: hidden;
 }
 
+.photo img {
+  max-width: 80%;
+  max-height: 900px;
+}
+
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+
 .video {
   margin: 60px 0 100px 0;
   text-align: center;
@@ -81,22 +96,15 @@ a:hover {
 	height: 80%; 
 }
 
-img {
-  max-width: 80%;
-  max-height: 900px;
-}
-
 .balance {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 60px;
+  margin: 60px auto 275px auto;
 }
 
 .background-clip {
     background-size: auto;
     background-repeat: repeat;
-    background-position: right center;
+    background-position: 0 0;
     font-size:280px;
     line-height: .8;
     text-transform:uppercase;
@@ -106,11 +114,11 @@ img {
     -webkit-text-fill-color:transparent;
     margin:0 0 30px 0;
     -webkit-font-smoothing:antialiased;
-    -webkit-animation:BackgroundAnimated 60s linear;
-    -moz-animation:BackgroundAnimated 60s linear;
-    -ms-animation:BackgroundAnimated 60s linear;
-    -o-animation:BackgroundAnimated 60s linear;
-    animation:BackgroundAnimated 60s linear
+    -webkit-animation:BackgroundAnimated 20s linear;
+    -moz-animation:BackgroundAnimated 20s linear;
+    -ms-animation:BackgroundAnimated 20s linear;
+    -o-animation:BackgroundAnimated 20s linear;
+    animation:BackgroundAnimated 20s linear
 }
 
 .sunset {
@@ -128,47 +136,20 @@ img {
   text-shadow: 8px 6px black;
 }
 
-@keyframes BackgroundAnimated {
-from {
-    background-position:0 0
-}
-
-to {
-    background-position:100% 0
-}
-}
-
-@-webkit-keyframes BackgroundAnimated {
-from {
-    background-position:0 0
-}
-
-to {
-    background-position:100% 0
-}
-}
-
-@-ms-keyframes BackgroundAnimated {
-from {
-    background-position:0 0
-}
-
-to {
-    background-position:100% 0
-}
-}
-
-@-moz-keyframes BackgroundAnimated {
-  from {
-      background-position:0 0
-  }
-
-  to {
-      background-position:100% 0
-  }
+.rotate-word span{
+	position: absolute;
+  left: 0;
+  right: 0;
+  margin:-46px auto 0 auto;
+  width: 80%;
+	opacity: 0;
+	-webkit-animation: rotateWord 18s linear infinite 0s;
+	-ms-animation: rotateWord 18s linear infinite 0s;
+	animation: rotateWord 18s linear infinite 0s;
 }
 
 
+/*Media Queries*/
 @media (max-width: 1000px) { 
   .background-clip {
     font-size: 180px;
@@ -179,7 +160,12 @@ to {
     background-clip:text;
     -webkit-text-fill-color:transparent;
   }
-  
+  .rotate-word {
+    margin-top: 40px;
+  }
+  .balance {
+    margin-bottom: 120px;
+  }
   h2 {
     font-size: 48px;
   }
@@ -188,7 +174,11 @@ to {
 @media (max-width: 700px) { 
   .background-clip {
     font-size: 80px;
-  } 
+  }
+   
+  .home-button {
+    display: none;
+  }
   
   h2 {
     font-size: 1.8em;
@@ -199,19 +189,49 @@ to {
   }
 }
 
-.rotate-word span{
-	position: absolute;
-  left: 0;
-  right: 0;
-  margin-right: auto;
-  margin-left: auto;
-  margin-top: -40px;
-  width: 80%;
-	opacity: 0;
-	-webkit-animation: rotateWord 18s linear infinite 0s;
-	-ms-animation: rotateWord 18s linear infinite 0s;
-	animation: rotateWord 18s linear infinite 0s;
+
+
+/*Animation*/
+@keyframes BackgroundAnimated {
+from {
+    background-position:0 0
 }
+
+to {
+    background-position:160px 0
+}
+}
+
+@-webkit-keyframes BackgroundAnimated {
+from {
+    background-position:0 0
+}
+
+to {
+    background-position:160px 0
+}
+}
+
+@-ms-keyframes BackgroundAnimated {
+from {
+    background-position:0 0
+}
+
+to {
+    background-position:160px 0
+}
+}
+
+@-moz-keyframes BackgroundAnimated {
+  from {
+      background-position:0 0
+  }
+
+  to {
+      background-position:160px 0
+  }
+}
+
 .rotate-word span:nth-child(2) { 
   -webkit-animation-delay: 3s; 
 	-ms-animation-delay: 3s; 
@@ -264,4 +284,3 @@ to {
 	  80% { opacity: 0; }
     100% { opacity: 0; }
 }
-
