@@ -1,6 +1,6 @@
 /*Styles*/
 body {
-  background: #f9f9f9;
+  background: #fff;
 }
 
 h2 {
@@ -15,7 +15,7 @@ h3 {
 }
 
 .headline {
-  margin-top: 30px;
+  margin-top: 32px;
 }
 
 .center-text {
@@ -64,6 +64,23 @@ a:hover {
   max-height: 900px;
 }
 
+.photo-container{
+  display: inline-block;
+}
+
+.img-container {
+  float: left;
+  margin-top: 4px; 
+  max-width: 400px;
+}
+
+.case {
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: left;
+  line-height: 1.4;
+}
+
 .center-image {
   display: block;
   margin-left: auto;
@@ -98,7 +115,7 @@ a:hover {
 
 .balance {
   display: block;
-  margin: 60px auto 275px auto;
+  margin: 60px auto 240px auto;
 }
 
 .background-clip {
@@ -164,20 +181,39 @@ a:hover {
     margin-top: 40px;
   }
   .balance {
-    margin-bottom: 120px;
+    margin-bottom: 160px;
   }
   h2 {
     font-size: 48px;
+  }
+  .case  {
+    margin-left: 12%;
+    margin-right: 12%;
   }
 }
   
 @media (max-width: 700px) { 
   .background-clip {
     font-size: 80px;
+    -webkit-font-smoothing:antialiased;
+    -webkit-animation:BackgroundAnimatedMobile 30s linear;
+    -moz-animation:BackgroundAnimatedMobile 30s linear;
+    -ms-animation:BackgroundAnimatedMobile 30s linear;
+    -o-animation:BackgroundAnimatedMobile 30s linear;
+    animation:BackgroundAnimatedMobile 30s linear
   }
    
   .home-button {
     display: none;
+  }
+  .nav {
+    font-size: .6em
+  }
+  .sunset {
+    background:url(../images/sunsetmobile.jpg);
+    -webkit-background-clip:text;
+    -moz-background-clip:text;
+    background-clip:text;
   }
   
   h2 {
@@ -185,7 +221,7 @@ a:hover {
   } 
   
   h3 {
-    font-size: .9em
+    font-size: 1.2em
   }
 }
 
@@ -229,6 +265,46 @@ to {
 
   to {
       background-position:160px 0
+  }
+}
+
+@keyframes BackgroundAnimatedMobile {
+from {
+    background-position:-200px 0
+}
+
+to {
+    background-position:20px 0
+}
+}
+
+@-webkit-keyframes BackgroundAnimatedMobile {
+from {
+    background-position:-200px 0
+}
+
+to {
+    background-position:20px 0
+}
+}
+
+@-ms-keyframes BackgroundAnimatedMobile {
+from {
+    background-position:-200px 0
+}
+
+to {
+    background-position:20px 0
+}
+}
+
+@-moz-keyframes BackgroundAnimatedMobile {
+  from {
+      background-position:-200px 0
+  }
+
+  to {
+      background-position:20px 0
   }
 }
 
