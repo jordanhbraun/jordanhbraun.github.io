@@ -65,7 +65,7 @@ ol {
 
 
 .wide-photo img {
-  max-width: 130%;
+  width: 130%;
   margin-left: -15%;
 }
 
@@ -126,7 +126,7 @@ ol {
     font-size: 1.4em;
   }
   .photo video {
-    width: 300px;
+    width: 250px;
   }
 
 }
