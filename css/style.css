@@ -122,6 +122,10 @@ ol {
   p {
     font-size: 1.4em
   }
+
+  ol {
+    font-size: 1.4em;
+  }
   .photo video {
     width: 300px;
   }
